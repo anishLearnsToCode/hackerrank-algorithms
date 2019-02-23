@@ -1,11 +1,16 @@
+import java.util.Arrays;
 import java.util.HashMap;
 import java.util.Scanner;
 
 public class Test {
     public static void main(String[] args) {
         Scanner s = new Scanner(System.in);
-        String str = s.next();
-        System.out.println(compressedString(str));
+
+        char[] test = "gtfeaaamjy".toCharArray();
+        Arrays.sort(test);
+        System.out.println(test);
+
+
     }
 
     private static String compressedString(String str){
