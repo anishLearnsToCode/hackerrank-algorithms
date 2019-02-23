@@ -13,52 +13,24 @@ public class BiggerIsGreater {
             return "no answer";
         }
 
-        char[] minPositions = getMinPositionsOf(string);
-        System.out.print("Min Positions[]");
-        System.out.println(minPositions);
-//        HashMap<Character, Integer> positionMap = createPositionMap(string);
-//        System.out.println(positionMap);
+        char[] maxPositionArray = getMaxPosition(string);
+        char[] minPositionArray = getMinPosition(string);
+        HashMap<Character, Integer> positionMap = getPositions(string);
 
-        for (int index = string.length()-1 ; index > 0 ; index--) {
-            if (string.charAt(index) > minPositions[index-1]) {
-                // lexicographically shorter string can be created
+        for (int index=string.length()-2 ; index >= 0 ; index-- ) {
+            if (string.charAt(index) < maxPositionArray[index]) {
+                // next smaller lexicographical string exists
 
-//                for (char character = (char)(string.charAt(index)-1) ; character >= 'a' ; character--) {
-//                    if (positionMap.containsKey(character)) {
-//                        int replaceCharacterIndex = positionMap.get(character);
-//                        char[] sortedString = string
-//                                        .substring(replaceCharacterIndex, index)
-//                                        .concat(string.substring(index+1))
-//                                        .toCharArray();
-//                        System.out.print("Sorted String: ");
-//                        Arrays.sort(sortedString);
-//                        System.out.println(sortedString);
-//                        return string
-//                                .substring(0, replaceCharacterIndex)
-//                                .concat(string.charAt(index) + "")
-//                                .concat(new String(sortedString));
-//                    }
-//                }
-
-                int currentCharacter = string.charAt(index);
-
-                for (int replaceIndex = index-1 ;  replaceIndex >= 0 ; replaceIndex--) {
-                    if (currentCharacter > string.charAt(replaceIndex)) {
-                        char[] sortedString = string
-                                .substring(replaceIndex, index)
-                                .concat(string.substring(index+1))
-                                .toCharArray();
-                        System.out.print("Sorted String: ");
-                        Arrays.sort(sortedString);
-                        System.out.println(sortedString);
-                        return string
-                                .substring(0, replaceIndex)
-                                .concat(string.charAt(index) + "")
-                                .concat(new String(sortedString));
+                for(char character = maxPositionArray[index] ; character <= 'z' ; character++){
+                    if(positionMap.containsKey(character)) {
+                        int replacementIndex =  
                     }
                 }
+
+                char[] sortedString = string
             }
         }
+
 
         return "no answer";
     }
