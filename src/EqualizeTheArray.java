@@ -1,3 +1,5 @@
+//https://www.hackerrank.com/challenges/equality-in-a-array/problem?h_r=next-challenge&h_v=zen
+
 import java.util.Scanner;
 
 public class EqualizeTheArray {
@@ -33,5 +35,23 @@ public class EqualizeTheArray {
         }
 
         return arr.length-count[k];
+    }
+
+    // Complete the equalizeArray function below.
+    static int equalizeArray(int[] arr) {
+        int memory[] = getElementMap(arr), numberOfElements = arr.length;
+        int answer = Integer.MAX_VALUE;
+        for (int element : memory) {
+            answer = Math.min(answer, numberOfElements - element);
+        }
+        return answer;
+    }
+
+    private static int[] getElementMap(int array[]) {
+        int[] memory = new int[101];
+        for (int element : array) {
+            memory[element]++;
+        }
+        return memory;
     }
 }

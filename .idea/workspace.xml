@@ -44,11 +44,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="NonDivisibleSubset.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="NonDivisibleSubset.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/NonDivisibleSubset.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="879">
               <caret line="123" column="1" lean-forward="false" selection-start-line="123" selection-start-column="1" selection-end-line="123" selection-end-column="1" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="EqualizeTheArray.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/EqualizeTheArray.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="879">
+              <caret line="56" column="1" lean-forward="false" selection-start-line="56" selection-start-column="1" selection-end-line="56" selection-end-column="1" />
               <folding />
             </state>
           </provider>
@@ -102,6 +112,7 @@
         <option value="$PROJECT_DIR$/src/FormingAMagicSquare.java" />
         <option value="$PROJECT_DIR$/src/ExtraLongFactorials.java" />
         <option value="$PROJECT_DIR$/src/NonDivisibleSubset.java" />
+        <option value="$PROJECT_DIR$/src/EqualizeTheArray.java" />
       </list>
     </option>
   </component>
@@ -150,7 +161,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../hackerrank-algorithms" />
-    <property name="SearchEverywhereHistoryKey" value="nondi&#9;PSI&#9;JAVA://NonDivisibleSubset&#10;extralong&#9;PSI&#9;JAVA://ExtraLongFactorials&#10;formingama&#9;PSI&#9;JAVA://FormingAMagicSquare" />
+    <property name="SearchEverywhereHistoryKey" value="thear&#9;PSI&#9;JAVA://EqualizeTheArray&#10;nondi&#9;PSI&#9;JAVA://NonDivisibleSubset&#10;extralong&#9;PSI&#9;JAVA://ExtraLongFactorials&#10;formingama&#9;PSI&#9;JAVA://FormingAMagicSquare" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -792,6 +803,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="879">
           <caret line="123" column="1" lean-forward="false" selection-start-line="123" selection-start-column="1" selection-end-line="123" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/EqualizeTheArray.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="879">
+          <caret line="56" column="1" lean-forward="false" selection-start-line="56" selection-start-column="1" selection-end-line="56" selection-end-column="1" />
           <folding />
         </state>
       </provider>
