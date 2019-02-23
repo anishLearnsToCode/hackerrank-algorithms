@@ -13,6 +13,8 @@ public class BiggerIsGreater {
             return "no answer";
         }
 
+
+
         char[] minPositions = getMinPositionsOf(string);
         System.out.print("Min Positions[]");
         System.out.println(minPositions);
