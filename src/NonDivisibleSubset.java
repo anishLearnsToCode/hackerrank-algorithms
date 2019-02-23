@@ -1,32 +1,51 @@
+// https://www.hackerrank.com/challenges/non-divisible-subset/problem?h_r=next-challenge&h_v=zen&h_r=next-challenge&h_v=zen
+
 import java.util.Scanner;
 
 public class NonDivisibleSubset {
+    private static Scanner s = new Scanner(System.in);
+
     public static void main(String[] args) {
-        Scanner s = new Scanner(System.in);
-        int n, k, ans[][], i, j, ans2;
 
-        System.out.print("Size : ");
-        n=s.nextInt();
+        int numberOfValues = s.nextInt();
+        int divisor = s.nextInt();
 
-        int arr[] = new int[n];
+        int array[] = input(numberOfValues);
 
-        arr_input(arr);
+        int answer = nonDivisibleSubset(divisor, array);
+        System.out.println(answer);
+    }
 
-        System.out.print("Element : ");
-        k=s.nextInt();
-
-        ans = MaxSubset(arr, k);
-        System.out.println("Complete");
-
-        for(i=0 ; i<ans.length ; System.out.println(""), i++){
-            for(j=0 ; j<ans[i].length ; j++){
-                System.out.print(ans[i][j]+" ");
-            }
+    private static int[] input(int numberOfElements) {
+        int array[] = new int[numberOfElements];
+        for(int index=0 ; index < numberOfElements ; index++) {
+            array[index] = s.nextInt();
         }
+        return array;
+    }
 
-        ans2 = max_set(ans);
-        System.out.println(ans2);
+    private static void print(int[] array) {
+        for (int element : array) {
+            System.out.print(element + " ");
+        }
+        System.out.println();
+    }
 
+    static int nonDivisibleSubset(int k, int[] S) {
+        int maximum=0;
+        int remainderCount[] = getRemainderArray(S, k);
+        for (int index = 1 ; index <= (k-1) / 2 ; index++) {
+            maximum += Math.max(remainderCount[index], remainderCount[k - index]);
+        }
+        return maximum + (remainderCount[0] > 0 ? 1 : 0) + (remainderCount[k/2] > 0 ? 1 : 0);
+    }
+
+    private static int[] getRemainderArray(int array[], int divisor) {
+        int answer[] = new int[divisor];
+        for (int element : array) {
+            answer[element % divisor] ++;
+        }
+        return answer;
     }
 
     public static void arr_input(int arr[]){

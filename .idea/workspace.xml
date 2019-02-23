@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f25c0bc9-3aa6-4a83-9395-dc1c1b81957d" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/src/ExtraLongFactorials.java" afterPath="$PROJECT_DIR$/src/ExtraLongFactorials.java" />
-    </list>
+    <list default="true" id="f25c0bc9-3aa6-4a83-9395-dc1c1b81957d" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -34,11 +32,23 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ExtraLongFactorials.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="ExtraLongFactorials.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/ExtraLongFactorials.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="595">
               <caret line="35" column="1" lean-forward="false" selection-start-line="35" selection-start-column="1" selection-end-line="35" selection-end-column="1" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="NonDivisibleSubset.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/NonDivisibleSubset.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="879">
+              <caret line="123" column="1" lean-forward="false" selection-start-line="123" selection-start-column="1" selection-end-line="123" selection-end-column="1" />
               <folding />
             </state>
           </provider>
@@ -91,6 +101,7 @@
         <option value="$PROJECT_DIR$/Sorting/src/BigSorting.java" />
         <option value="$PROJECT_DIR$/src/FormingAMagicSquare.java" />
         <option value="$PROJECT_DIR$/src/ExtraLongFactorials.java" />
+        <option value="$PROJECT_DIR$/src/NonDivisibleSubset.java" />
       </list>
     </option>
   </component>
@@ -139,7 +150,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../hackerrank-algorithms" />
-    <property name="SearchEverywhereHistoryKey" value="extralong&#9;PSI&#9;JAVA://ExtraLongFactorials&#10;formingama&#9;PSI&#9;JAVA://FormingAMagicSquare" />
+    <property name="SearchEverywhereHistoryKey" value="nondi&#9;PSI&#9;JAVA://NonDivisibleSubset&#10;extralong&#9;PSI&#9;JAVA://ExtraLongFactorials&#10;formingama&#9;PSI&#9;JAVA://FormingAMagicSquare" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -771,6 +782,16 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="595">
           <caret line="35" column="1" lean-forward="false" selection-start-line="35" selection-start-column="1" selection-end-line="35" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/NonDivisibleSubset.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="879">
+          <caret line="123" column="1" lean-forward="false" selection-start-line="123" selection-start-column="1" selection-end-line="123" selection-end-column="1" />
           <folding />
         </state>
       </provider>
