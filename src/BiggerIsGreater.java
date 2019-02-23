@@ -23,11 +23,11 @@ public class BiggerIsGreater {
 
                 for(char character = maxPositionArray[index] ; character <= 'z' ; character++){
                     if(positionMap.containsKey(character)) {
-                        int replacementIndex =  
+
                     }
                 }
 
-                char[] sortedString = string
+                char[] sortedString = string.toCharArray();
             }
         }
 
@@ -35,20 +35,15 @@ public class BiggerIsGreater {
         return "no answer";
     }
 
-    private static char[] getMinPositionsOf(String string) {
-        char[] array = new char[string.length()];
-        array[0] = string.charAt(0);
-        for (int index=1 ; index < string.length()-1 ; index++) {
-            array[index] = (char)Math.min(array[index-1], string.charAt(index));
-        }
-        return array;
+    private static char[] getMaxPosition(String string) {
+        return new char[10];
     }
 
-    private static HashMap<Character, Integer> createPositionMap(String string) {
-        HashMap<Character, Integer> positionMap = new HashMap<>();
-        for (int index=0 ; index < string.length() ; index++) {
-            positionMap.put(string.charAt(index), index);
-        }
-        return positionMap;
+    private static char[] getMinPosition(String string) {
+        return new char[10];
+    }
+
+    private static HashMap<Character, Integer> getPositions(String string) {
+        return new HashMap<>();
     }
 }
