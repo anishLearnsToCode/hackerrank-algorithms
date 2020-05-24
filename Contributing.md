@@ -18,4 +18,5 @@ img {
 </span>
 
 <img src="https://img.icons8.com/dusk/64/000000/ruby-programming-language.png"/>
-![Ruby](https://img.icons8.com/dusk/64/000000/ruby-programming-language.png)
+<img src="https://img.icons8.com/office/16/000000/ruby-programming-language.png"/>
+<img src="https://img.icons8.com/office/30/000000/ruby-programming-language.png"/>
