@@ -48,7 +48,7 @@ I have also solved other domains on HackerRank that can be viewed at:
 ### Warmup
 | Problem | Difficulty | Solution Link |
 |---------|------------|:-------------:|
-| [Solve Me First](https://www.hackerrank.com/challenges/solve-me-first) | Easy | <a><img src="assets/java.png" height="30"></a>  <a><img src="assets/python.png" height="28"></a> |
+| [Solve Me First](https://www.hackerrank.com/challenges/solve-me-first) | Easy | <a alt="Java"><img src="assets/java.png" height="30"></a>  <a alt="Python"><img src="assets/python.png" height="28"></a> |
 | [Simple Array Sum](https://www.hackerrank.com/challenges/simple-array-sum) | Easy | <a><img src="assets/java.png" height="30"></a> <a><img src="assets/ts.png" height="28"></a> <a><img src="assets/js.png" height="28"></a> |
 | [Compare The Triplets](https://www.hackerrank.com/challenges/compare-the-triplets) | Easy | <a><img src="assets/java.png" height="30"></a> <a href="#"><img src="assets/C.webp" height="30"></a>|
 | [A very Big Sum](https://www.hackerrank.com/challenges/a-very-big-sum) | Easy | |
