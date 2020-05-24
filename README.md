@@ -48,7 +48,7 @@ I have also solved other domains on HackerRank that can be viewed at:
 ### Warmup
 | Problem | Difficulty | Solution Link |
 |---------|------------|---------------|
-| [Solve Me First](https://www.hackerrank.com/challenges/solve-me-first) | Easy | |
+| [Solve Me First](https://www.hackerrank.com/challenges/solve-me-first) | Easy | <a><img src="assets/java.png"></a> |
 | [Simple Array Sum](https://www.hackerrank.com/challenges/simple-array-sum) | Easy | |
 | [Compare The Triplets](https://www.hackerrank.com/challenges/compare-the-triplets) | Easy | |
 | [A very Big Sum](https://www.hackerrank.com/challenges/a-very-big-sum) | Easy | |
@@ -128,4 +128,4 @@ I have also solved other domains on HackerRank that can be viewed at:
 | [Larry's Array](https://www.hackerrank.com/challenges/larrys-array) | Medium | |
 | [Almost Sorted](https://www.hackerrank.com/challenges/almost-sorted) | Medium | |
 | [Matrix Layer Rotation](https://www.hackerrank.com/challenges/matrix-rotation-algo) | Hard | |
-| [Bigger is Greater](https://www.hackerrank.com/challenges/bigger-is-greater) | Medium | |
+| [Bigger is Greater](https://www.hackerrank.com/challenges/bigger-is-greater) | Medium | |sol
