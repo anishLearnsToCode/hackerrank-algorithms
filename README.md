@@ -33,7 +33,7 @@ problems in this domain have been solved with the Java programming language, but
 open to the pull requests that provides solutions to these problems in other languages
 as well such as Python, JavaScript, TypeScript (even Lisp!)....
 
-To Contribute have a look at [Contributing.md]() and happy coding 😀 🐱‍💻
+To Contribute have a look at [Contributing.md](https://github.com/anishLearnsToCode/hackerrank-algorithms/blob/master/Contributing.md) and happy coding 😀 🐱‍💻
 
 I have also solved other domains on HackerRank that can be viewed at:
 
