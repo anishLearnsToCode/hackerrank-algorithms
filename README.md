@@ -29,7 +29,11 @@ which consists of both
 and [Algorithms](https://www.hackerrank.com/domains/algorithms).
 
 The Algorithms Domain is further Divided into the following sub-domain. All
-problems in this domain have been solved with the Java programming language.
+problems in this domain have been solved with the Java programming language, but I am 
+open to the pull requests that provides solutions to these problems in other languages
+as well such as Python, JavaScript, TypeScript (even Lisp!)....
+
+To Contribute have a look at [Contributing.md]() and happy coding 😀 🐱‍💻
 
 I have also solved other domains on HackerRank that can be viewed at:
 
@@ -56,4 +60,27 @@ I have also solved other domains on HackerRank that can be viewed at:
 | [Time Conversion](https://www.hackerrank.com/challenges/time-conversion) | Easy | |
 
 
-### 
+### Implementation
+| Problem | Difficulty | Solution Link |
+|---------|------------|---------------|
+| [Grading Students](https://www.hackerrank.com/challenges/grading) | Easy | |
+| [Apple and Orange](https://www.hackerrank.com/challenges/apple-and-orange) | Easy | |
+| [Kangaroo](https://www.hackerrank.com/challenges/kangaroo) | Easy | |
+| [Between Two Sets](https://www.hackerrank.com/challenges/between-two-sets) | Easy | |
+| [Breaking The Records](https://www.hackerrank.com/challenges/breaking-best-and-worst-records) | Easy | |
+| [Birthday Chocolate](https://www.hackerrank.com/challenges/the-birthday-bar) | Easy | |
+| []() | Easy | |
+| []() | Easy | |
+| []() | Easy | |
+| []() | Easy | |
+| []() | Easy | |
+| []() | Easy | |
+| []() | Easy | |
+| []() | Easy | |
+| []() | Easy | |
+| []() | Easy | |
+| []() | Easy | |
+| []() | Easy | |
+| []() | Easy | |
+| []() | Easy | |
+| []() | Easy | |
