@@ -16,3 +16,6 @@ img {
     <a><img src="assets/java.png" alt="Java" height="30x"></a>
     <a><img src="assets/python.png" alt="Python" height="28px"></a>
 </span>
+
+<img src="https://img.icons8.com/dusk/64/000000/ruby-programming-language.png"/>
+![Ruby](https://img.icons8.com/dusk/64/000000/ruby-programming-language.png)
