@@ -48,8 +48,8 @@ I have also solved other domains on HackerRank that can be viewed at:
 ### Warmup
 | Problem | Difficulty | Solution Link |
 |---------|------------|:-------------:|
-| [Solve Me First](https://www.hackerrank.com/challenges/solve-me-first) | Easy | <span><a><img src="assets/java.png" alt="Java" height="30px"></a><a><img src="assets/python.png" alt="Python" height="30px"></a><a><img src="assets/js.png" alt="Js" height="30px"></a></span> |
-| [Simple Array Sum](https://www.hackerrank.com/challenges/simple-array-sum) | Easy | ![Ruby](https://img.icons8.com/office/30/000000/ruby-programming-language.png) ![Java](https://img.icons8.com/color/40/000000/java-coffee-cup-logo.png)|
+| [Solve Me First](https://www.hackerrank.com/challenges/solve-me-first) | Easy | |
+| [Simple Array Sum](https://www.hackerrank.com/challenges/simple-array-sum) | Easy | |
 | [Compare The Triplets](https://www.hackerrank.com/challenges/compare-the-triplets) | Easy | |
 | [A very Big Sum](https://www.hackerrank.com/challenges/a-very-big-sum) | Easy | |
 | [Diagonal Difference](https://www.hackerrank.com/challenges/diagonal-difference) | Easy | |
