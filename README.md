@@ -2,7 +2,7 @@
 HackerRank is an online platform that offers programmers the ability to test their
 sills, practice and learn something new. 
 
-The problem sets on HackerRank are divided in Domains and the following are the domains
+The problem sets on HackerRank are divided in Domains, and the following are the domains
 on HackerRank:
 
 1. [Algorithms](https://www.hackerrank.com/domains/algorithms)
