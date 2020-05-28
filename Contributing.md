@@ -1,12 +1,12 @@
 # Contributing Guidelines
 
-This projectt aims to create a common source fro all algorithms quetions on hackerrank and values every single contribution
-made by the community.
+This project aims to create a common source from all algorithms questions on HackerRank and values every single 
+contribution made by the community.
 
 We aim to solve all questions in the HackerRank Algorithms  domain in as many languages as possible to show the 
 different code styles and approaches that can be used to solve the same problem.
  
-Contributing is very simple, simply identify a quetion from the [README](README.md) file that has yet to be solved in
+Contributing is very simple, simply identify a question from the [README](README.md) file that has yet to be solved in
 a programming language of your choice. 
 
 Solve that question and make sure that all tests pass on HackerRank and then create a pull request with the 
@@ -16,7 +16,7 @@ added solution and updated readme.
 
 1. Fork this repository to your github account and then clone your forked repository to your machine.
 2. Say you solve some problem called __cars-and-trucks__ in the _Implementation_ sub domain on 
-    Hackerrank using your favorite programming language, say Python then simple add a new file called 
+    HackerRank using your favorite programming language, say Python then simple add a new file called 
     `cars-and-trucks.py` in the `implimentation` directory. 
 3. In the [README](README.md) file, add a Python logo along with an empty link.
 4. Updating the link for the solution will be done by the Project maintainers (aka. [anishLearnsToCode]())

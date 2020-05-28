@@ -20,7 +20,7 @@ on HackerRank:
 13. [Databases](https://www.hackerrank.com/domains/databases)
 14. [Regex](https://www.hackerrank.com/domains/regex)
 
-This repository contains solutions to the Data Structures domain part of HackerRank. My
+This repository contains solutions to the Algorithms domain part of HackerRank. My
 HackerRank profile can be viewed [here](https://www.hackerrank.com/anishviewer).
 
 The Algorithms Domain Falls under a broader Problem Solving Skill Set in HackerRank
@@ -43,7 +43,7 @@ I have also solved other domains on HackerRank that can be viewed at:
 | [Java](https://www.hackerrank.com/domains/java) | [Solutions Repository](https://github.com/anishLearnsToCode/hackerrank-java) |
 | [Python](https://www.hackerrank.com/domains/python) | [Solutions Repository](https://github.com/anishLearnsToCode/hackerrank-python) |
 
-## Sub Domains & Problems (+Solutions) in the Data Structures Domain
+## Sub Domains & Problems (+Solutions) in the Algorithms Domain
 
 ### Warmup
 | Problem | Difficulty | Solution Link |
