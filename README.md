@@ -67,7 +67,7 @@ I have also solved other domains on HackerRank that can be viewed at:
 | [Staircase](https://www.hackerrank.com/challenges/staircase) | Easy | [![Java](https://img.icons8.com/color/40/000000/java-coffee-cup-logo.png)](https://github.com/anishLearnsToCode/hackerrank-algorithms/blob/master/src/warmup/Staircase.java) |
 | [Mini-Max Sum](https://www.hackerrank.com/challenges/mini-max-sum) | Easy | [![Java](https://img.icons8.com/color/40/000000/java-coffee-cup-logo.png)](https://github.com/anishLearnsToCode/hackerrank-algorithms/blob/master/src/warmup/MinMaxSum.java) |
 | [Birthday Cake Candles](https://www.hackerrank.com/challenges/birthday-cake-candles) | Easy | [![Java](https://img.icons8.com/color/40/000000/java-coffee-cup-logo.png)](https://github.com/anishLearnsToCode/hackerrank-algorithms/blob/master/src/warmup/BirthdayCakeCandles.java) |
-| [Time Conversion](https://www.hackerrank.com/challenges/time-conversion) | Easy | |
+| [Time Conversion](https://www.hackerrank.com/challenges/time-conversion) | Easy | [![Java](https://img.icons8.com/color/40/000000/java-coffee-cup-logo.png)](https://github.com/anishLearnsToCode/hackerrank-algorithms/blob/master/src/warmup/TimeConversion.java) |
 
 
 ### Implementation
