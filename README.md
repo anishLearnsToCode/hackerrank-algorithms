@@ -73,7 +73,7 @@ I have also solved other domains on HackerRank that can be viewed at:
 ### Implementation
 | Problem | Difficulty | Solution Link |
 |---------|------------|---------------|
-| [Grading Students](https://www.hackerrank.com/challenges/grading) | Easy | |
+| [Grading Students](https://www.hackerrank.com/challenges/grading) | Easy | [![Java](https://img.icons8.com/color/40/000000/java-coffee-cup-logo.png)](https://github.com/anishLearnsToCode/hackerrank-algorithms/blob/master/src/implimentation/GradingStudents.java) |
 | [Apple and Orange](https://www.hackerrank.com/challenges/apple-and-orange) | Easy | |
 | [Kangaroo](https://www.hackerrank.com/challenges/kangaroo) | Easy | |
 | [Between Two Sets](https://www.hackerrank.com/challenges/between-two-sets) | Easy | |
