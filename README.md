@@ -78,7 +78,7 @@ I have also solved other domains on HackerRank that can be viewed at:
 | [Kangaroo](https://www.hackerrank.com/challenges/kangaroo) | Easy | [![Java](https://img.icons8.com/color/40/000000/java-coffee-cup-logo.png)](https://github.com/anishLearnsToCode/hackerrank-algorithms/blob/master/src/implimentation/Kangaroo.java) |
 | [Between Two Sets](https://www.hackerrank.com/challenges/between-two-sets) | Easy | [![Java](https://img.icons8.com/color/40/000000/java-coffee-cup-logo.png)](https://github.com/anishLearnsToCode/hackerrank-algorithms/blob/master/src/implimentation/BetweenTwoSets.java) |
 | [Breaking The Records](https://www.hackerrank.com/challenges/breaking-best-and-worst-records) | Easy | [![Java](https://img.icons8.com/color/40/000000/java-coffee-cup-logo.png)](https://github.com/anishLearnsToCode/hackerrank-algorithms/blob/master/src/implimentation/BreakingTheRecords.java) |
-| [Birthday Chocolate](https://www.hackerrank.com/challenges/the-birthday-bar) | Easy | |
+| [Birthday Chocolate](https://www.hackerrank.com/challenges/the-birthday-bar) | Easy | [![Java](https://img.icons8.com/color/40/000000/java-coffee-cup-logo.png)](https://github.com/anishLearnsToCode/hackerrank-algorithms/blob/master/src/implimentation/BirthdayChocolate.java) |
 | [Divisible Sum Pairs](https://www.hackerrank.com/challenges/divisible-sum-pairs) | Easy | |
 | [Migratory Birds](https://www.hackerrank.com/challenges/migratory-birds) | Easy | |
 | [Day of the Programmer](https://www.hackerrank.com/challenges/day-of-the-programmer) | Easy | |
