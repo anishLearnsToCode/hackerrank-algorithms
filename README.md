@@ -74,8 +74,8 @@ I have also solved other domains on HackerRank that can be viewed at:
 | Problem | Difficulty | Solution Link |
 |---------|------------|---------------|
 | [Grading Students](https://www.hackerrank.com/challenges/grading) | Easy | [![Java](https://img.icons8.com/color/40/000000/java-coffee-cup-logo.png)](https://github.com/anishLearnsToCode/hackerrank-algorithms/blob/master/src/implimentation/GradingStudents.java) |
-| [Apple and Orange](https://www.hackerrank.com/challenges/apple-and-orange) | Easy | [![Java](https://img.icons8.com/color/40/000000/java-coffee-cup-logo.png)]() https://github.com/anishLearnsToCode/hackerrank-algorithms/blob/master/src/implimentation/AppleAndOrange.java|
-| [Kangaroo](https://www.hackerrank.com/challenges/kangaroo) | Easy | |
+| [Apple and Orange](https://www.hackerrank.com/challenges/apple-and-orange) | Easy | [![Java](https://img.icons8.com/color/40/000000/java-coffee-cup-logo.png)](https://github.com/anishLearnsToCode/hackerrank-algorithms/blob/master/src/implimentation/AppleAndOrange.java) |
+| [Kangaroo](https://www.hackerrank.com/challenges/kangaroo) | Easy | [![Java](https://img.icons8.com/color/40/000000/java-coffee-cup-logo.png)](https://github.com/anishLearnsToCode/hackerrank-algorithms/blob/master/src/implimentation/Kangaroo.java) |
 | [Between Two Sets](https://www.hackerrank.com/challenges/between-two-sets) | Easy | |
 | [Breaking The Records](https://www.hackerrank.com/challenges/breaking-best-and-worst-records) | Easy | |
 | [Birthday Chocolate](https://www.hackerrank.com/challenges/the-birthday-bar) | Easy | |
