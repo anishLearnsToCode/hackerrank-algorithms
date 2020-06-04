@@ -80,7 +80,7 @@ I have also solved other domains on HackerRank that can be viewed at:
 | [Breaking The Records](https://www.hackerrank.com/challenges/breaking-best-and-worst-records) | Easy | [![Java](https://img.icons8.com/color/40/000000/java-coffee-cup-logo.png)](https://github.com/anishLearnsToCode/hackerrank-algorithms/blob/master/src/implimentation/BreakingTheRecords.java) |
 | [Birthday Chocolate](https://www.hackerrank.com/challenges/the-birthday-bar) | Easy | [![Java](https://img.icons8.com/color/40/000000/java-coffee-cup-logo.png)](https://github.com/anishLearnsToCode/hackerrank-algorithms/blob/master/src/implimentation/BirthdayChocolate.java) |
 | [Divisible Sum Pairs](https://www.hackerrank.com/challenges/divisible-sum-pairs) | Easy | [![Java](https://img.icons8.com/color/40/000000/java-coffee-cup-logo.png)](https://github.com/anishLearnsToCode/hackerrank-algorithms/blob/master/src/implimentation/DivisibleSumPairs.java) |
-| [Migratory Birds](https://www.hackerrank.com/challenges/migratory-birds) | Easy | |
+| [Migratory Birds](https://www.hackerrank.com/challenges/migratory-birds) | Easy | [![Java](https://img.icons8.com/color/40/000000/java-coffee-cup-logo.png)](https://github.com/anishLearnsToCode/hackerrank-algorithms/blob/master/src/implimentation/MigratoryBirds.java) |
 | [Day of the Programmer](https://www.hackerrank.com/challenges/day-of-the-programmer) | Easy | |
 | [Bon Appétit](https://www.hackerrank.com/challenges/bon-appetit) | Easy | |
 | [Sock Merchant](https://www.hackerrank.com/challenges/sock-merchant) | Easy | |
