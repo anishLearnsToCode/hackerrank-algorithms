@@ -85,7 +85,7 @@ I have also solved other domains on HackerRank that can be viewed at:
 | [Bon Appétit](https://www.hackerrank.com/challenges/bon-appetit) | Easy | [![Java](https://img.icons8.com/color/40/000000/java-coffee-cup-logo.png)](https://github.com/anishLearnsToCode/hackerrank-algorithms/blob/master/src/implimentation/BonAppetit.java) |
 | [Sock Merchant](https://www.hackerrank.com/challenges/sock-merchant) | Easy | [![Java](https://img.icons8.com/color/40/000000/java-coffee-cup-logo.png)](https://github.com/anishLearnsToCode/hackerrank-algorithms/blob/master/src/implimentation/SockMerchant.java) |
 | [Drawing Book](https://www.hackerrank.com/challenges/drawing-book) | Easy | [![Java](https://img.icons8.com/color/40/000000/java-coffee-cup-logo.png)](https://github.com/anishLearnsToCode/hackerrank-algorithms/blob/master/src/implimentation/DrawingBook.java) |
-| [Counting Valleys](https://www.hackerrank.com/challenges/counting-valleys) | Easy | |
+| [Counting Valleys](https://www.hackerrank.com/challenges/counting-valleys) | Easy | [![Java](https://img.icons8.com/color/40/000000/java-coffee-cup-logo.png)](https://github.com/anishLearnsToCode/hackerrank-algorithms/blob/master/src/implimentation/CountingValleys.java) |
 | [Electronics Shop](https://www.hackerrank.com/challenges/electronics-shop) | Easy | |
 | [Cats and a Mouse](https://www.hackerrank.com/challenges/cats-and-a-mouse) | Easy | |
 | [Forming a Magic Square](https://www.hackerrank.com/challenges/magic-square-forming) | Medium | |
