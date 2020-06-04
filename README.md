@@ -62,8 +62,8 @@ I have also solved other domains on HackerRank that can be viewed at:
 | [Simple Array Sum](https://www.hackerrank.com/challenges/simple-array-sum) | Easy | [![Java](https://img.icons8.com/color/40/000000/java-coffee-cup-logo.png)](https://github.com/anishLearnsToCode/hackerrank-algorithms/blob/master/src/warmup/SimpleArraySum.java) |
 | [Compare The Triplets](https://www.hackerrank.com/challenges/compare-the-triplets) | Easy | [![Java](https://img.icons8.com/color/40/000000/java-coffee-cup-logo.png)](https://github.com/anishLearnsToCode/hackerrank-algorithms/blob/master/src/warmup/CompareTheTriplets.java) |
 | [A very Big Sum](https://www.hackerrank.com/challenges/a-very-big-sum) | Easy | [![Java](https://img.icons8.com/color/40/000000/java-coffee-cup-logo.png)](https://github.com/anishLearnsToCode/hackerrank-algorithms/blob/master/src/warmup/AVeryBigSum.java) |
-| [Diagonal Difference](https://www.hackerrank.com/challenges/diagonal-difference) | Easy | |
-| [Plus Minus](https://www.hackerrank.com/challenges/plus-minus) | Easy | |
+| [Diagonal Difference](https://www.hackerrank.com/challenges/diagonal-difference) | Easy | [![Java](https://img.icons8.com/color/40/000000/java-coffee-cup-logo.png)](https://github.com/anishLearnsToCode/hackerrank-algorithms/blob/master/src/warmup/DiagonalDifference.java) |
+| [Plus Minus](https://www.hackerrank.com/challenges/plus-minus) | Easy | []() |
 | [Staircase](https://www.hackerrank.com/challenges/staircase) | Easy | |
 | [Mini-Max Sum](https://www.hackerrank.com/challenges/mini-max-sum) | Easy | |
 | [Birthday Cake Candles](https://www.hackerrank.com/challenges/birthday-cake-candles) | Easy | |
