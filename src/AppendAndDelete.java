@@ -1,5 +1,3 @@
-import com.sun.corba.se.pept.transport.ReaderThread;
-
 import java.util.Scanner;
 
 public class AppendAndDelete {
