@@ -2,9 +2,10 @@
 HackerRank is an online platform that offers programmers the ability to test their
 sills, practice and learn something new. 
 
-The problem sets on HackerRank are divided in Domains, and the following are the domains
-on HackerRank:
+The problem sets on HackerRank are divided in Domains & Tutorials, and the following are the domains & 
+tutorials on HackerRank:
 
+## Domains
 1. [Algorithms](https://www.hackerrank.com/domains/algorithms)
 2. [Data Structures](https://www.hackerrank.com/domains/data-structures)
 3. [Mathematics](https://www.hackerrank.com/domains/mathematics) 
@@ -20,6 +21,12 @@ on HackerRank:
 13. [Databases](https://www.hackerrank.com/domains/databases)
 14. [Regex](https://www.hackerrank.com/domains/regex)
 
+## Tutorials
+1. [Interview Preparation Kit](https://www.hackerrank.com/interview) 
+2. [Learn To Code in 30 Days](https://www.hackerrank.com/domains/tutorials/30-days-of-code) 
+3. [10 Days of Statistics](https://www.hackerrank.com/domains/tutorials/10-days-of-statistics)
+4. [10 Days of Javascript](https://www.hackerrank.com/domains/tutorials/10-days-of-javascript) 
+
 This repository contains solutions to the Algorithms domain part of HackerRank. My
 HackerRank profile can be viewed [here](https://www.hackerrank.com/anishviewer).
 
@@ -33,7 +40,9 @@ problems in this domain have been solved with the Java programming language, but
 open to the pull requests that provides solutions to these problems in other languages
 as well such as Python, JavaScript, TypeScript (even Lisp!)....
 
-To Contribute have a look at [Contributing.md](https://github.com/anishLearnsToCode/hackerrank-algorithms/blob/master/Contributing.md) and happy coding 😀 🐱‍💻
+To Contribute have a look at 
+[Contributing.md](https://github.com/anishLearnsToCode/hackerrank-algorithms/blob/master/Contributing.md) 
+and happy coding 😀 🐱‍💻
 
 I have also solved other domains on HackerRank that can be viewed at:
 
@@ -42,6 +51,7 @@ I have also solved other domains on HackerRank that can be viewed at:
 | [Data Structures](https://www.hackerrank.com/domains/data-structures) | [Solutions Repository](https://github.com/anishLearnsToCode/hackerrank-data-structures) |
 | [Java](https://www.hackerrank.com/domains/java) | [Solutions Repository](https://github.com/anishLearnsToCode/hackerrank-java) |
 | [Python](https://www.hackerrank.com/domains/python) | [Solutions Repository](https://github.com/anishLearnsToCode/hackerrank-python) |
+| [Interview Preparation Kit](https://www.hackerrank.com/interview) | [Solutions Repository](https://github.com/anishLearnsToCode/hackerrank-interview-preparation-kit) |
 
 ## Sub Domains & Problems (+Solutions) in the Algorithms Domain
 
