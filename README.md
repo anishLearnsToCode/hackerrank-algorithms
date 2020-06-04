@@ -60,7 +60,7 @@ I have also solved other domains on HackerRank that can be viewed at:
 |---------|------------|:-------------:|
 | [Solve Me First](https://www.hackerrank.com/challenges/solve-me-first) | Easy | [![Java](https://img.icons8.com/color/40/000000/java-coffee-cup-logo.png)](https://github.com/anishLearnsToCode/hackerrank-algorithms/blob/master/src/warmup/SolveMeFirst.java) [![Python](https://img.icons8.com/color/35/000000/python.png)](https://github.com/anishLearnsToCode/hackerrank-algorithms/blob/master/python/warmup/solve-me-first.py) |
 | [Simple Array Sum](https://www.hackerrank.com/challenges/simple-array-sum) | Easy | [![Java](https://img.icons8.com/color/40/000000/java-coffee-cup-logo.png)](https://github.com/anishLearnsToCode/hackerrank-algorithms/blob/master/src/warmup/SimpleArraySum.java) |
-| [Compare The Triplets](https://www.hackerrank.com/challenges/compare-the-triplets) | Easy | |
+| [Compare The Triplets](https://www.hackerrank.com/challenges/compare-the-triplets) | Easy | [![Java](https://img.icons8.com/color/40/000000/java-coffee-cup-logo.png)](https://github.com/anishLearnsToCode/hackerrank-algorithms/blob/master/src/warmup/CompareTheTriplets.java) |
 | [A very Big Sum](https://www.hackerrank.com/challenges/a-very-big-sum) | Easy | |
 | [Diagonal Difference](https://www.hackerrank.com/challenges/diagonal-difference) | Easy | |
 | [Plus Minus](https://www.hackerrank.com/challenges/plus-minus) | Easy | |
