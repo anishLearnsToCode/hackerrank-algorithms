@@ -97,7 +97,7 @@ I have also solved other domains on HackerRank that can be viewed at:
 | [Angry Professor](https://www.hackerrank.com/challenges/angry-professor) | Easy | [![Java](https://img.icons8.com/color/40/000000/java-coffee-cup-logo.png)](https://github.com/anishLearnsToCode/hackerrank-algorithms/blob/master/src/implimentation/AngryProfessor.java) |
 | [Beautiful Days at the movies](https://www.hackerrank.com/challenges/beautiful-days-at-the-movies) | Easy | [![Java](https://img.icons8.com/color/40/000000/java-coffee-cup-logo.png)](https://github.com/anishLearnsToCode/hackerrank-algorithms/blob/master/src/implimentation/BeautifulDaysAtTheMovies.java) |
 | [Viral Advertising](https://www.hackerrank.com/challenges/strange-advertising) | Easy | [![Java](https://img.icons8.com/color/40/000000/java-coffee-cup-logo.png)](https://github.com/anishLearnsToCode/hackerrank-algorithms/blob/master/src/implimentation/ViralAdvertising.java) |
-| [Save The Prisoner](https://www.hackerrank.com/challenges/save-the-prisoner) | Easy | |
+| [Save The Prisoner](https://www.hackerrank.com/challenges/save-the-prisoner) | Easy | [![Java](https://img.icons8.com/color/40/000000/java-coffee-cup-logo.png)](https://github.com/anishLearnsToCode/hackerrank-algorithms/blob/master/src/implimentation/SaveThePrisoner.java) |
 | [Circular Array Rotation](https://www.hackerrank.com/challenges/circular-array-rotation) | Easy | |
 | [Sequence Equation](https://www.hackerrank.com/challenges/permutation-equation) | Easy | |
 | [Jumping On the Clouds Revisited](https://www.hackerrank.com/challenges/jumping-on-the-clouds-revisited) | Easy | |
