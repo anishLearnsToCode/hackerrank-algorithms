@@ -57,7 +57,7 @@ I have also solved other domains on HackerRank that can be viewed at:
 
 ### Warmup
 | Problem | Difficulty | Solution Link |
-|---------|------------|:-------------:|
+|---------|:----------:|:-------------:|
 | [Solve Me First](https://www.hackerrank.com/challenges/solve-me-first) | Easy | [![Java](https://img.icons8.com/color/40/000000/java-coffee-cup-logo.png)](https://github.com/anishLearnsToCode/hackerrank-algorithms/blob/master/src/warmup/SolveMeFirst.java) [![Python](https://img.icons8.com/color/35/000000/python.png)](https://github.com/anishLearnsToCode/hackerrank-algorithms/blob/master/python/warmup/solve-me-first.py) |
 | [Simple Array Sum](https://www.hackerrank.com/challenges/simple-array-sum) | Easy | [![Java](https://img.icons8.com/color/40/000000/java-coffee-cup-logo.png)](https://github.com/anishLearnsToCode/hackerrank-algorithms/blob/master/src/warmup/SimpleArraySum.java) |
 | [Compare The Triplets](https://www.hackerrank.com/challenges/compare-the-triplets) | Easy | [![Java](https://img.icons8.com/color/40/000000/java-coffee-cup-logo.png)](https://github.com/anishLearnsToCode/hackerrank-algorithms/blob/master/src/warmup/CompareTheTriplets.java) |
@@ -72,7 +72,7 @@ I have also solved other domains on HackerRank that can be viewed at:
 
 ### Implementation
 | Problem | Difficulty | Solution Link |
-|---------|------------|---------------|
+|---------|:----------:|:-------------:|
 | [Grading Students](https://www.hackerrank.com/challenges/grading) | Easy | [![Java](https://img.icons8.com/color/40/000000/java-coffee-cup-logo.png)](https://github.com/anishLearnsToCode/hackerrank-algorithms/blob/master/src/implimentation/GradingStudents.java) |
 | [Apple and Orange](https://www.hackerrank.com/challenges/apple-and-orange) | Easy | [![Java](https://img.icons8.com/color/40/000000/java-coffee-cup-logo.png)](https://github.com/anishLearnsToCode/hackerrank-algorithms/blob/master/src/implimentation/AppleAndOrange.java) |
 | [Kangaroo](https://www.hackerrank.com/challenges/kangaroo) | Easy | [![Java](https://img.icons8.com/color/40/000000/java-coffee-cup-logo.png)](https://github.com/anishLearnsToCode/hackerrank-algorithms/blob/master/src/implimentation/Kangaroo.java) |
