@@ -19,7 +19,6 @@ public class ClimbingTheLeaderboard {
 
     private static void  printRanksForEachGame(int[] scores, int[] games) {
         scores = getUniqueArray(scores);
-//        System.out.println(Arrays.toString(scores));
         for (int game : games) {
             int smallerOrEqualIndex = search(scores, game);
             System.out.println(smallerOrEqualIndex + 1);
