@@ -99,7 +99,7 @@ I have also solved other domains on HackerRank that can be viewed at:
 | [Viral Advertising](https://www.hackerrank.com/challenges/strange-advertising) | Easy | [![Java](https://img.icons8.com/color/40/000000/java-coffee-cup-logo.png)](https://github.com/anishLearnsToCode/hackerrank-algorithms/blob/master/src/implimentation/ViralAdvertising.java) |
 | [Save The Prisoner](https://www.hackerrank.com/challenges/save-the-prisoner) | Easy | [![Java](https://img.icons8.com/color/40/000000/java-coffee-cup-logo.png)](https://github.com/anishLearnsToCode/hackerrank-algorithms/blob/master/src/implimentation/SaveThePrisoner.java) |
 | [Circular Array Rotation](https://www.hackerrank.com/challenges/circular-array-rotation) | Easy | [![Java](https://img.icons8.com/color/40/000000/java-coffee-cup-logo.png)](https://github.com/anishLearnsToCode/hackerrank-algorithms/blob/master/src/implimentation/CircularArrayRotation.java) |
-| [Sequence Equation](https://www.hackerrank.com/challenges/permutation-equation) | Easy | |
+| [Sequence Equation](https://www.hackerrank.com/challenges/permutation-equation) | Easy | [![Java](https://img.icons8.com/color/40/000000/java-coffee-cup-logo.png)](https://github.com/anishLearnsToCode/hackerrank-algorithms/blob/master/src/implimentation/SequenceEquation.java) |
 | [Jumping On the Clouds Revisited](https://www.hackerrank.com/challenges/jumping-on-the-clouds-revisited) | Easy | |
 | [Find Digits](https://www.hackerrank.com/challenges/jumping-on-the-clouds-revisited) | Easy | |
 | [Extra Long factorials](https://www.hackerrank.com/challenges/extra-long-factorials) | Medium | |
