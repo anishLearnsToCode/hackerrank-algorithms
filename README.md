@@ -105,7 +105,7 @@ I have also solved other domains on HackerRank that can be viewed at:
 | [Extra Long factorials](https://www.hackerrank.com/challenges/extra-long-factorials) | Medium | [![Java](https://img.icons8.com/color/40/000000/java-coffee-cup-logo.png)](https://github.com/anishLearnsToCode/hackerrank-algorithms/blob/master/src/implimentation/ExtraLongFactorials.java) [![Python](https://img.icons8.com/color/35/000000/python.png)](https://github.com/anishLearnsToCode/hackerrank-algorithms/blob/master/python/implimentation/extra-long-factorials.py) |
 | [Append and Delete](https://www.hackerrank.com/challenges/append-and-delete) | Easy | [![Java](https://img.icons8.com/color/40/000000/java-coffee-cup-logo.png)](https://github.com/anishLearnsToCode/hackerrank-algorithms/blob/master/src/implimentation/AppendAndDelete.java) |
 | [Sherlock and Squares](https://www.hackerrank.com/challenges/sherlock-and-squares) | Easy | [![Java](https://img.icons8.com/color/40/000000/java-coffee-cup-logo.png)](https://github.com/anishLearnsToCode/hackerrank-algorithms/blob/master/src/implimentation/SherlockAndSquares.java) |
-| [Library Fine](https://www.hackerrank.com/challenges/library-fine) | Easy | |
+| [Library Fine](https://www.hackerrank.com/challenges/library-fine) | Easy | [![Java](https://img.icons8.com/color/40/000000/java-coffee-cup-logo.png)](https://github.com/anishLearnsToCode/hackerrank-algorithms/blob/master/src/implimentation/LibraryFine.java) |
 | [Cut the Sticks](https://www.hackerrank.com/challenges/cut-the-sticks) | Easy | |
 | [Non-Divisible Subset](https://www.hackerrank.com/challenges/non-divisible-subset) | Medium | |
 | [Repeated String](https://www.hackerrank.com/challenges/repeated-string) | Easy | |
