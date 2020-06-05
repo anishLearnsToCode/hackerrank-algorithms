@@ -89,7 +89,7 @@ I have also solved other domains on HackerRank that can be viewed at:
 | [Electronics Shop](https://www.hackerrank.com/challenges/electronics-shop) | Easy | [![Java](https://img.icons8.com/color/40/000000/java-coffee-cup-logo.png)](https://github.com/anishLearnsToCode/hackerrank-algorithms/blob/master/src/implimentation/ElectronicsShop.java) |
 | [Cats and a Mouse](https://www.hackerrank.com/challenges/cats-and-a-mouse) | Easy | [![Java](https://img.icons8.com/color/40/000000/java-coffee-cup-logo.png)](https://github.com/anishLearnsToCode/hackerrank-algorithms/blob/master/src/implimentation/CatAndMouse.java) |
 | [Forming a Magic Square](https://www.hackerrank.com/challenges/magic-square-forming) | Medium | [![Java](https://img.icons8.com/color/40/000000/java-coffee-cup-logo.png)](https://github.com/anishLearnsToCode/hackerrank-algorithms/blob/master/src/implimentation/FormingAMagicSquare.java) |
-| [Picking Numbers](https://www.hackerrank.com/challenges/picking-numbers) | Easy | |
+| [Picking Numbers](https://www.hackerrank.com/challenges/picking-numbers) | Easy | [![Java](https://img.icons8.com/color/40/000000/java-coffee-cup-logo.png)](https://github.com/anishLearnsToCode/hackerrank-algorithms/blob/master/src/implimentation/PickingNumbers.java) |
 | [Climbing The Leaderboard](https://www.hackerrank.com/challenges/climbing-the-leaderboard) | Medium | |
 | [The Hurdle Race](https://www.hackerrank.com/challenges/the-hurdle-race) | Easy | |
 | [Designer PDF Viwer](https://www.hackerrank.com/challenges/designer-pdf-viewer) | Easy | |
