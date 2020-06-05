@@ -92,7 +92,7 @@ I have also solved other domains on HackerRank that can be viewed at:
 | [Picking Numbers](https://www.hackerrank.com/challenges/picking-numbers) | Easy | [![Java](https://img.icons8.com/color/40/000000/java-coffee-cup-logo.png)](https://github.com/anishLearnsToCode/hackerrank-algorithms/blob/master/src/implimentation/PickingNumbers.java) |
 | [Climbing The Leaderboard](https://www.hackerrank.com/challenges/climbing-the-leaderboard) | Medium | [![Java](https://img.icons8.com/color/40/000000/java-coffee-cup-logo.png)](https://github.com/anishLearnsToCode/hackerrank-algorithms/blob/master/src/implimentation/ClimbingTheLeaderboard.java) |
 | [The Hurdle Race](https://www.hackerrank.com/challenges/the-hurdle-race) | Easy |  [![Java](https://img.icons8.com/color/40/000000/java-coffee-cup-logo.png)](https://github.com/anishLearnsToCode/hackerrank-algorithms/blob/master/src/implimentation/TheHurdleRace.java) |
-| [Designer PDF Viwer](https://www.hackerrank.com/challenges/designer-pdf-viewer) | Easy | |
+| [Designer PDF Viewer](https://www.hackerrank.com/challenges/designer-pdf-viewer) | Easy | |
 | [Utopian Tree](https://www.hackerrank.com/challenges/utopian-tree) | Easy | |
 | [Angry Professor](https://www.hackerrank.com/challenges/angry-professor) | Easy | |
 | [Beautiful Days at the movies](https://www.hackerrank.com/challenges/beautiful-days-at-the-movies) | Easy | |
