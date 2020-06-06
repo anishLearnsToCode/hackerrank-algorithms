@@ -120,7 +120,7 @@ I have also solved other domains on HackerRank that can be viewed at:
 | [Beautiful Triplets](https://www.hackerrank.com/challenges/beautiful-triplets) | Easy | [![Java](https://img.icons8.com/color/40/000000/java-coffee-cup-logo.png)](https://github.com/anishLearnsToCode/hackerrank-algorithms/blob/master/src/implimentation/BeautifulTriplets.java) |
 | [Minimum Distances](https://www.hackerrank.com/challenges/minimum-distances) | Easy | [![Java](https://img.icons8.com/color/40/000000/java-coffee-cup-logo.png)](https://github.com/anishLearnsToCode/hackerrank-algorithms/blob/master/src/implimentation/MinimumDistances.java) |
 | [Halloween Sales](https://www.hackerrank.com/challenges/halloween-sale) | Easy | [![Java](https://img.icons8.com/color/40/000000/java-coffee-cup-logo.png)](https://github.com/anishLearnsToCode/hackerrank-algorithms/blob/master/src/implimentation/HalloweenSale.java) |
-| [The Time in Words](https://www.hackerrank.com/challenges/the-time-in-words) | Medium | |
+| [The Time in Words](https://www.hackerrank.com/challenges/the-time-in-words) | Medium | [![Java](https://img.icons8.com/color/40/000000/java-coffee-cup-logo.png)](https://github.com/anishLearnsToCode/hackerrank-algorithms/blob/master/src/implimentation/TheTimeInWords.java) |
 | [Chocolate Feast](https://www.hackerrank.com/challenges/chocolate-feast) | Easy | |
 | [Service Lane](https://www.hackerrank.com/challenges/service-lane) | Easy | |
 | [Lisa's Workbook](https://www.hackerrank.com/challenges/lisa-workbook) | Easy | |
