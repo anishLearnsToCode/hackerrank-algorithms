@@ -127,7 +127,7 @@ I have also solved other domains on HackerRank that can be viewed at:
 | [Flatland Space Stations](https://www.hackerrank.com/challenges/flatland-space-stations) | Easy | [![Java](https://img.icons8.com/color/40/000000/java-coffee-cup-logo.png)](https://github.com/anishLearnsToCode/hackerrank-algorithms/blob/master/src/implimentation/FlatLandSpaceStations.java) |
 | [Fair Rations](https://www.hackerrank.com/challenges/fair-rations) | Easy | [![Java](https://img.icons8.com/color/40/000000/java-coffee-cup-logo.png)](https://github.com/anishLearnsToCode/hackerrank-algorithms/blob/master/src/implimentation/FairRations.java) |
 | [Cavity Map](https://www.hackerrank.com/challenges/cavity-map) | Easy | [![Java](https://img.icons8.com/color/40/000000/java-coffee-cup-logo.png)](https://github.com/anishLearnsToCode/hackerrank-algorithms/blob/master/src/implimentation/CavityMap.java) |
-| [Manasa and Stones](https://www.hackerrank.com/challenges/manasa-and-stones) | Easy | |
+| [Manasa and Stones](https://www.hackerrank.com/challenges/manasa-and-stones) | Easy | [![Java](https://img.icons8.com/color/40/000000/java-coffee-cup-logo.png)](https://github.com/anishLearnsToCode/hackerrank-algorithms/blob/master/src/implimentation/ManasaAndStones.java) |
 | [The Grid Search](https://www.hackerrank.com/challenges/the-grid-search) | Medium | |
 | [Happy Ladybugs](https://www.hackerrank.com/challenges/happy-ladybugs) | Easy | |
 | [Strange Counter](https://www.hackerrank.com/challenges/strange-code) | Easy | |
