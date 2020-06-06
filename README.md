@@ -115,7 +115,7 @@ I have also solved other domains on HackerRank that can be viewed at:
 | [ACM ICPC Team](https://www.hackerrank.com/challenges/acm-icpc-team) | Easy | [![Java](https://img.icons8.com/color/40/000000/java-coffee-cup-logo.png)](https://github.com/anishLearnsToCode/hackerrank-algorithms/blob/master/src/implimentation/AcmIcpcTeam.java) |
 | [Taum and B'Dday](https://www.hackerrank.com/challenges/taum-and-bday) | Easy | [![Java](https://img.icons8.com/color/40/000000/java-coffee-cup-logo.png)](https://github.com/anishLearnsToCode/hackerrank-algorithms/blob/master/src/implimentation/TaumAndBirthday.java) |
 | [Organizing Containers of Balls](https://www.hackerrank.com/challenges/organizing-containers-of-balls) | Medium | [![Java](https://img.icons8.com/color/40/000000/java-coffee-cup-logo.png)](https://github.com/anishLearnsToCode/hackerrank-algorithms/blob/master/src/implimentation/OrganizingContainersOfBalls.java) |
-| [Encryption](https://www.hackerrank.com/challenges/encryption) | Medium | |
+| [Encryption](https://www.hackerrank.com/challenges/encryption) | Medium |  [![Java](https://img.icons8.com/color/40/000000/java-coffee-cup-logo.png)](https://github.com/anishLearnsToCode/hackerrank-algorithms/blob/master/src/implimentation/Encryption.java) |
 | [Modified Kaprekar numbers](https://www.hackerrank.com/challenges/kaprekar-numbers) | Easy | |
 | [Beautiful Triplets](https://www.hackerrank.com/challenges/beautiful-triplets) | Easy | |
 | [Minimum Distances](https://www.hackerrank.com/challenges/minimum-distances) | Easy | |
