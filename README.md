@@ -122,7 +122,7 @@ I have also solved other domains on HackerRank that can be viewed at:
 | [Halloween Sales](https://www.hackerrank.com/challenges/halloween-sale) | Easy | [![Java](https://img.icons8.com/color/40/000000/java-coffee-cup-logo.png)](https://github.com/anishLearnsToCode/hackerrank-algorithms/blob/master/src/implimentation/HalloweenSale.java) |
 | [The Time in Words](https://www.hackerrank.com/challenges/the-time-in-words) | Medium | [![Java](https://img.icons8.com/color/40/000000/java-coffee-cup-logo.png)](https://github.com/anishLearnsToCode/hackerrank-algorithms/blob/master/src/implimentation/TheTimeInWords.java) |
 | [Chocolate Feast](https://www.hackerrank.com/challenges/chocolate-feast) | Easy | [![Java](https://img.icons8.com/color/40/000000/java-coffee-cup-logo.png)](https://github.com/anishLearnsToCode/hackerrank-algorithms/blob/master/src/implimentation/ChocolateFeast.java) |
-| [Service Lane](https://www.hackerrank.com/challenges/service-lane) | Easy | |
+| [Service Lane](https://www.hackerrank.com/challenges/service-lane) | Easy |  [![Java](https://img.icons8.com/color/40/000000/java-coffee-cup-logo.png)](https://github.com/anishLearnsToCode/hackerrank-algorithms/blob/master/src/implimentation/ServiceLane.java) |
 | [Lisa's Workbook](https://www.hackerrank.com/challenges/lisa-workbook) | Easy | |
 | [Flatland Space Stations](https://www.hackerrank.com/challenges/flatland-space-stations) | Easy | |
 | [Fair Rations](https://www.hackerrank.com/challenges/fair-rations) | Easy | |
