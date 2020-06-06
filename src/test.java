@@ -4,7 +4,7 @@ public class test {
     private static final Scanner scanner = new Scanner(System.in);
 
     public static void main(String[] args) {
-        System.out.println(-1 % 2);
+        System.out.println(1 | 0);
     }
 
     private static int[] getArray(int length) {
