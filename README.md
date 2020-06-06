@@ -123,7 +123,7 @@ I have also solved other domains on HackerRank that can be viewed at:
 | [The Time in Words](https://www.hackerrank.com/challenges/the-time-in-words) | Medium | [![Java](https://img.icons8.com/color/40/000000/java-coffee-cup-logo.png)](https://github.com/anishLearnsToCode/hackerrank-algorithms/blob/master/src/implimentation/TheTimeInWords.java) |
 | [Chocolate Feast](https://www.hackerrank.com/challenges/chocolate-feast) | Easy | [![Java](https://img.icons8.com/color/40/000000/java-coffee-cup-logo.png)](https://github.com/anishLearnsToCode/hackerrank-algorithms/blob/master/src/implimentation/ChocolateFeast.java) |
 | [Service Lane](https://www.hackerrank.com/challenges/service-lane) | Easy |  [![Java](https://img.icons8.com/color/40/000000/java-coffee-cup-logo.png)](https://github.com/anishLearnsToCode/hackerrank-algorithms/blob/master/src/implimentation/ServiceLane.java) |
-| [Lisa's Workbook](https://www.hackerrank.com/challenges/lisa-workbook) | Easy | |
+| [Lisa's Workbook](https://www.hackerrank.com/challenges/lisa-workbook) | Easy | [![Java](https://img.icons8.com/color/40/000000/java-coffee-cup-logo.png)](https://github.com/anishLearnsToCode/hackerrank-algorithms/blob/master/src/implimentation/LisasWorkbook.java) |
 | [Flatland Space Stations](https://www.hackerrank.com/challenges/flatland-space-stations) | Easy | |
 | [Fair Rations](https://www.hackerrank.com/challenges/fair-rations) | Easy | |
 | [Cavity Map](https://www.hackerrank.com/challenges/cavity-map) | Easy | |
