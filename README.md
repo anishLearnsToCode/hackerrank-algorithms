@@ -109,7 +109,7 @@ I have also solved other domains on HackerRank that can be viewed at:
 | [Cut the Sticks](https://www.hackerrank.com/challenges/cut-the-sticks) | Easy | [![Java](https://img.icons8.com/color/40/000000/java-coffee-cup-logo.png)](https://github.com/anishLearnsToCode/hackerrank-algorithms/blob/master/src/implimentation/CutTheSticks.java) |
 | [Non-Divisible Subset](https://www.hackerrank.com/challenges/non-divisible-subset) | Medium | [![Java](https://img.icons8.com/color/40/000000/java-coffee-cup-logo.png)](https://github.com/anishLearnsToCode/hackerrank-algorithms/blob/master/src/implimentation/NonDivisibleSubset.java) |
 | [Repeated String](https://www.hackerrank.com/challenges/repeated-string) | Easy | [![Java](https://img.icons8.com/color/40/000000/java-coffee-cup-logo.png)](https://github.com/anishLearnsToCode/hackerrank-algorithms/blob/master/src/implimentation/RepeatedString.java) |
-| [Jumping on The Clouds](https://www.hackerrank.com/challenges/jumping-on-the-clouds) | Easy | |
+| [Jumping on The Clouds](https://www.hackerrank.com/challenges/jumping-on-the-clouds) | Easy | [![Java](https://img.icons8.com/color/40/000000/java-coffee-cup-logo.png)](https://github.com/anishLearnsToCode/hackerrank-algorithms/blob/master/src/implimentation/JumpingOnTheClouds.java) |
 | [Equalize The Array](https://www.hackerrank.com/challenges/equality-in-a-array) | Easy | |
 | [Queen's Attack II](https://www.hackerrank.com/challenges/queens-attack-2) | Medium | |
 | [ACM ICPC Team](https://www.hackerrank.com/challenges/acm-icpc-team) | Easy | |
