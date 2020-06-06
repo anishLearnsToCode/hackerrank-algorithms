@@ -111,7 +111,7 @@ I have also solved other domains on HackerRank that can be viewed at:
 | [Repeated String](https://www.hackerrank.com/challenges/repeated-string) | Easy | [![Java](https://img.icons8.com/color/40/000000/java-coffee-cup-logo.png)](https://github.com/anishLearnsToCode/hackerrank-algorithms/blob/master/src/implimentation/RepeatedString.java) |
 | [Jumping on The Clouds](https://www.hackerrank.com/challenges/jumping-on-the-clouds) | Easy | [![Java](https://img.icons8.com/color/40/000000/java-coffee-cup-logo.png)](https://github.com/anishLearnsToCode/hackerrank-algorithms/blob/master/src/implimentation/JumpingOnTheClouds.java) |
 | [Equalize The Array](https://www.hackerrank.com/challenges/equality-in-a-array) | Easy | [![Java](https://img.icons8.com/color/40/000000/java-coffee-cup-logo.png)](https://github.com/anishLearnsToCode/hackerrank-algorithms/blob/master/src/implimentation/EqualizeTheArray.java) |
-| [Queen's Attack II](https://www.hackerrank.com/challenges/queens-attack-2) | Medium | |
+| [Queen's Attack II](https://www.hackerrank.com/challenges/queens-attack-2) | Medium | [![Java](https://img.icons8.com/color/40/000000/java-coffee-cup-logo.png)](https://github.com/anishLearnsToCode/hackerrank-algorithms/blob/master/src/implimentation/QueensAttackII.java) |
 | [ACM ICPC Team](https://www.hackerrank.com/challenges/acm-icpc-team) | Easy | |
 | [Taum and B'Dday](https://www.hackerrank.com/challenges/taum-and-bday) | Easy | |
 | [Organizing Containers of Balls](https://www.hackerrank.com/challenges/organizing-containers-of-balls) | Medium | |
