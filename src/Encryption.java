@@ -15,20 +15,14 @@ public class Encryption {
         int i;
         double row, col;
         col = row = (int)Math.sqrt(str.length());
-        //System.out.println(row);
-        //System.out.println(col);
-        //System.out.println(Math.ceil(Math.sqrt(str.length())));
 
         for( ; ; col++){
             if((row * col) >= str.length()){
-                //System.out.println("true ");
                 if(col <= Math.ceil(Math.sqrt(str.length()))){
-                    //System.out.println(Math.ceil(Math.sqrt(str.length())));
                     break;
-                }
-                else{
+                } else {
                     row++;
-                    col=row-1;
+                    col = row-1;
                 }
             }
         }
