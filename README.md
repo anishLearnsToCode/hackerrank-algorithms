@@ -125,7 +125,7 @@ I have also solved other domains on HackerRank that can be viewed at:
 | [Service Lane](https://www.hackerrank.com/challenges/service-lane) | Easy |  [![Java](https://img.icons8.com/color/40/000000/java-coffee-cup-logo.png)](https://github.com/anishLearnsToCode/hackerrank-algorithms/blob/master/src/implimentation/ServiceLane.java) |
 | [Lisa's Workbook](https://www.hackerrank.com/challenges/lisa-workbook) | Easy | [![Java](https://img.icons8.com/color/40/000000/java-coffee-cup-logo.png)](https://github.com/anishLearnsToCode/hackerrank-algorithms/blob/master/src/implimentation/LisasWorkbook.java) |
 | [Flatland Space Stations](https://www.hackerrank.com/challenges/flatland-space-stations) | Easy | [![Java](https://img.icons8.com/color/40/000000/java-coffee-cup-logo.png)](https://github.com/anishLearnsToCode/hackerrank-algorithms/blob/master/src/implimentation/FlatLandSpaceStations.java) |
-| [Fair Rations](https://www.hackerrank.com/challenges/fair-rations) | Easy | |
+| [Fair Rations](https://www.hackerrank.com/challenges/fair-rations) | Easy | [![Java](https://img.icons8.com/color/40/000000/java-coffee-cup-logo.png)](https://github.com/anishLearnsToCode/hackerrank-algorithms/blob/master/src/implimentation/FairRations.java) |
 | [Cavity Map](https://www.hackerrank.com/challenges/cavity-map) | Easy | |
 | [Manasa and Stones](https://www.hackerrank.com/challenges/manasa-and-stones) | Easy | |
 | [The Grid Search](https://www.hackerrank.com/challenges/the-grid-search) | Medium | |
