@@ -14,12 +14,12 @@ public class HalloweenSale {
         System.out.println(maximumGames(startingPrice, difference, threshold, money));
     }
 
-    private static int maximumGames(int start, int difference, int m, int money) {
-        int games = 1 + (start - m) / difference;
+    private static int maximumGames(int start, int difference, int threshold, int money) {
+        int games = 1 + (start - threshold) / difference;
         int spent = games * (2 * start - (games - 1) * difference) / 2;
 
         if (money >= spent) {
-            return games + (money - spent) / m;
+            return games + (money - spent) / threshold;
         }
 
         int b = 2 * start + difference;
