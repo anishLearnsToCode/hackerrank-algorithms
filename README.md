@@ -136,6 +136,6 @@ I have also solved other domains on HackerRank that can be viewed at:
 | [The Bomberman Game](https://www.hackerrank.com/challenges/bomber-man) | Medium | [![Java](https://img.icons8.com/color/40/000000/java-coffee-cup-logo.png)](https://github.com/anishLearnsToCode/hackerrank-algorithms/blob/master/src/implimentation/TheBomberManGame.java) |
 | [Emma's Supercomputer](https://www.hackerrank.com/challenges/two-pluses) | Medium | [![C++](https://img.icons8.com/color/35/000000/c-plus-plus-logo.png)](https://github.com/anishLearnsToCode/hackerrank-algorithms/blob/master/C%2B%2B/implimentation/EmasSupercomputer.cpp) |
 | [Larry's Array](https://www.hackerrank.com/challenges/larrys-array) | Medium | [![Java](https://img.icons8.com/color/40/000000/java-coffee-cup-logo.png)](https://github.com/anishLearnsToCode/hackerrank-algorithms/blob/master/src/implimentation/LarrysArray.java) |
-| [Almost Sorted](https://www.hackerrank.com/challenges/almost-sorted) | Medium | |
+| [Almost Sorted](https://www.hackerrank.com/challenges/almost-sorted) | Medium | [![Java](https://img.icons8.com/color/40/000000/java-coffee-cup-logo.png)](https://github.com/anishLearnsToCode/hackerrank-algorithms/blob/master/src/implimentation/AlmostSorted.java) |
 | [Matrix Layer Rotation](https://www.hackerrank.com/challenges/matrix-rotation-algo) | Hard | |
 | [Bigger is Greater](https://www.hackerrank.com/challenges/bigger-is-greater) | Medium | |sol
