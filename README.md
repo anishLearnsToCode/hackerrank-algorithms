@@ -139,3 +139,55 @@ I have also solved other domains on HackerRank that can be viewed at:
 | [Almost Sorted](https://www.hackerrank.com/challenges/almost-sorted) | Medium | [![Java](https://img.icons8.com/color/40/000000/java-coffee-cup-logo.png)](https://github.com/anishLearnsToCode/hackerrank-algorithms/blob/master/src/implimentation/AlmostSorted.java) |
 | [Matrix Layer Rotation](https://www.hackerrank.com/challenges/matrix-rotation-algo) | Hard | [![Java](https://img.icons8.com/color/40/000000/java-coffee-cup-logo.png)](https://github.com/anishLearnsToCode/hackerrank-algorithms/blob/master/src/implimentation/MatrixLayerRotation.java) |
 | [Bigger is Greater](https://www.hackerrank.com/challenges/bigger-is-greater) | Medium | [![Java](https://img.icons8.com/color/40/000000/java-coffee-cup-logo.png)](https://github.com/anishLearnsToCode/hackerrank-algorithms/blob/master/src/implimentation/BiggerIsGreater.java) |
+
+### Strings
+| Problem | Difficulty | Solution Link |
+|---------|:----------:|:-------------:|
+| [Strong Password](https://www.hackerrank.com/challenges/strong-password) | Easy | |
+| [Super Reduced String](https://www.hackerrank.com/challenges/reduced-string) | Easy | |
+| [CamelCase](https://www.hackerrank.com/challenges/camelcase) | Easy | |
+| [Two Characters](https://www.hackerrank.com/challenges/two-characters) | Easy | |
+| [Caeser Cipher](https://www.hackerrank.com/challenges/caesar-cipher-1) | Easy | |
+| [Mars Exploration](https://www.hackerrank.com/challenges/mars-exploration) | Easy | |
+| [HackerRank Is a String!](https://www.hackerrank.com/challenges/hackerrank-in-a-string) | Easy | |
+| [Pangrams](https://www.hackerrank.com/challenges/pangrams) | Easy | |
+| [Weighted Uniform Strings](https://www.hackerrank.com/challenges/weighted-uniform-string) | Easy | |
+| [Separate The Numbers](https://www.hackerrank.com/challenges/separate-the-numbers) | Easy | |
+| [Funny String](https://www.hackerrank.com/challenges/funny-string) | Easy | |
+| [Gemstones](https://www.hackerrank.com/challenges/gem-stones) | Easy | |
+| [Alternating Characters](https://www.hackerrank.com/challenges/alternating-characters) | Easy | |
+| [Beautiful Binary String](https://www.hackerrank.com/challenges/beautiful-binary-string) | Easy | |
+| [The Love-Letter Mysetry](https://www.hackerrank.com/challenges/the-love-letter-mystery) | Easy | |
+| [Palindromic Index](https://www.hackerrank.com/challenges/palindrome-index) | Easy | |
+| [Anagram](https://www.hackerrank.com/challenges/anagram) | Easy | |
+| [Making Anagrams](https://www.hackerrank.com/challenges/making-anagrams) | Easy | |
+| [Game of Thrones - I](https://www.hackerrank.com/challenges/game-of-thrones) | Easy | |
+| [Two Strings](https://www.hackerrank.com/challenges/two-strings) | Easy | |
+| [String Concatenation](https://www.hackerrank.com/challenges/string-construction) | Easy | |
+| [Highest Value Palindrome](https://www.hackerrank.com/challenges/richie-rich) | Medium | |
+| [Sherlock and The Valid String](https://www.hackerrank.com/challenges/sherlock-and-valid-string) | Medium | |
+| [Maximum Palindromes](https://www.hackerrank.com/challenges/maximum-palindromes) | Medium | |
+| [Sherlock and Anagrams](https://www.hackerrank.com/challenges/sherlock-and-anagrams) | Medium | |
+| [Common Child](https://www.hackerrank.com/challenges/common-child) | Medium | |
+| [Bear and Steady Gene](https://www.hackerrank.com/challenges/bear-and-steady-gene) | Medium | |
+| [Determining DNA Health](https://www.hackerrank.com/challenges/determining-dna-health) | Hard | |
+| [Morgan and String](https://www.hackerrank.com/challenges/morgan-and-a-string) | Expert | |
+| [Count Strings](https://www.hackerrank.com/challenges/count-strings) | Hard | |
+| [String Function Calculation](https://www.hackerrank.com/challenges/string-function-calculation) | Advanced | |
+| [Build a Palindrome](https://www.hackerrank.com/challenges/challenging-palindromes) | Advanced | |
+| [Build a String](https://www.hackerrank.com/challenges/build-a-string) | Hard | |
+| [Gridland Provinces](https://www.hackerrank.com/challenges/gridland-provinces) | Hard | |
+| [Cards Permutations](https://www.hackerrank.com/challenges/cards-permutation) | Expert | |
+| [Ashton and String](https://www.hackerrank.com/challenges/ashton-and-string) | Advanced | |
+| [String Similarity](https://www.hackerrank.com/challenges/string-similarity) | Expert | |
+| [Super Functional Strings](https://www.hackerrank.com/challenges/super-functional-strings) | Advanced | |
+| [Circular Palindromes](https://www.hackerrank.com/challenges/circular-palindromes) | Advanced | |
+| [Similar Strings](https://www.hackerrank.com/challenges/similar-strings) | Advanced | |
+| [Save Humanity](https://www.hackerrank.com/challenges/save-humanity) | Expert | |
+| [Find Strings](https://www.hackerrank.com/challenges/find-strings) | Expert | |
+| [Palindromic Border](https://www.hackerrank.com/challenges/palindromic-border) | Expert | |
+| [Two Two](https://www.hackerrank.com/challenges/two-two) | Advanced | |
+| [Two String Game](https://www.hackerrank.com/challenges/two-strings-game) | Expert | |
+| [Letter Islands](https://www.hackerrank.com/challenges/letter-islands) | Expert | |
+| [Pseudo-Isomorphic Substrings](https://www.hackerrank.com/challenges/pseudo-isomorphic-substrings) | Expert | |
+| [How many Substrings?](https://www.hackerrank.com/challenges/how-many-substrings) | Expert | |
