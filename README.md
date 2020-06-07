@@ -134,7 +134,7 @@ I have also solved other domains on HackerRank that can be viewed at:
 | [3D Surface Area](https://www.hackerrank.com/challenges/3d-surface-area) | Medium | [![Java](https://img.icons8.com/color/40/000000/java-coffee-cup-logo.png)](https://github.com/anishLearnsToCode/hackerrank-algorithms/blob/master/src/implimentation/ThreeDSurfaceArea.java) |
 | [Absolute Permutations](https://www.hackerrank.com/challenges/absolute-permutation) | Medium | [![Java](https://img.icons8.com/color/40/000000/java-coffee-cup-logo.png)](https://github.com/anishLearnsToCode/hackerrank-algorithms/blob/master/src/implimentation/AbsolutePermutation.java) |
 | [The Bomberman Game](https://www.hackerrank.com/challenges/bomber-man) | Medium | [![Java](https://img.icons8.com/color/40/000000/java-coffee-cup-logo.png)](https://github.com/anishLearnsToCode/hackerrank-algorithms/blob/master/src/implimentation/TheBomberManGame.java) |
-| [Emma's Supercomputer](https://www.hackerrank.com/challenges/two-pluses) | Medium | |
+| [Emma's Supercomputer](https://www.hackerrank.com/challenges/two-pluses) | Medium | [![C++](https://img.icons8.com/color/35/000000/c-plus-plus-logo.png)](https://github.com/anishLearnsToCode/hackerrank-algorithms/blob/master/C%2B%2B/implimentation/EmasSupercomputer.cpp) |
 | [Larry's Array](https://www.hackerrank.com/challenges/larrys-array) | Medium | |
 | [Almost Sorted](https://www.hackerrank.com/challenges/almost-sorted) | Medium | |
 | [Matrix Layer Rotation](https://www.hackerrank.com/challenges/matrix-rotation-algo) | Hard | |
