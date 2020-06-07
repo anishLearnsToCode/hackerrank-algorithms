@@ -132,7 +132,7 @@ I have also solved other domains on HackerRank that can be viewed at:
 | [Happy Ladybugs](https://www.hackerrank.com/challenges/happy-ladybugs) | Easy | [![Java](https://img.icons8.com/color/40/000000/java-coffee-cup-logo.png)](https://github.com/anishLearnsToCode/hackerrank-algorithms/blob/master/src/implimentation/HappyLadyBugs.java) |
 | [Strange Counter](https://www.hackerrank.com/challenges/strange-code) | Easy | [![Java](https://img.icons8.com/color/40/000000/java-coffee-cup-logo.png)](https://github.com/anishLearnsToCode/hackerrank-algorithms/blob/master/src/implimentation/StrangeCounter.java) |
 | [3D Surface Area](https://www.hackerrank.com/challenges/3d-surface-area) | Medium | [![Java](https://img.icons8.com/color/40/000000/java-coffee-cup-logo.png)](https://github.com/anishLearnsToCode/hackerrank-algorithms/blob/master/src/implimentation/ThreeDSurfaceArea.java) |
-| [Absolute Permutations](https://www.hackerrank.com/challenges/absolute-permutation) | Medium | |
+| [Absolute Permutations](https://www.hackerrank.com/challenges/absolute-permutation) | Medium | [![Java](https://img.icons8.com/color/40/000000/java-coffee-cup-logo.png)](https://github.com/anishLearnsToCode/hackerrank-algorithms/blob/master/src/implimentation/AbsolutePermutation.java) |
 | [The Bomberman Game](https://www.hackerrank.com/challenges/bomber-man) | Medium | |
 | [Emma's Supercomputer](https://www.hackerrank.com/challenges/two-pluses) | Medium | |
 | [Larry's Array](https://www.hackerrank.com/challenges/larrys-array) | Medium | |
