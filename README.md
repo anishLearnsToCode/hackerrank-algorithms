@@ -130,7 +130,7 @@ I have also solved other domains on HackerRank that can be viewed at:
 | [Manasa and Stones](https://www.hackerrank.com/challenges/manasa-and-stones) | Easy | [![Java](https://img.icons8.com/color/40/000000/java-coffee-cup-logo.png)](https://github.com/anishLearnsToCode/hackerrank-algorithms/blob/master/src/implimentation/ManasaAndStones.java) |
 | [The Grid Search](https://www.hackerrank.com/challenges/the-grid-search) | Medium | [![Java](https://img.icons8.com/color/40/000000/java-coffee-cup-logo.png)](https://github.com/anishLearnsToCode/hackerrank-algorithms/blob/master/src/implimentation/TheGridSearch.java) |
 | [Happy Ladybugs](https://www.hackerrank.com/challenges/happy-ladybugs) | Easy | [![Java](https://img.icons8.com/color/40/000000/java-coffee-cup-logo.png)](https://github.com/anishLearnsToCode/hackerrank-algorithms/blob/master/src/implimentation/HappyLadyBugs.java) |
-| [Strange Counter](https://www.hackerrank.com/challenges/strange-code) | Easy | |
+| [Strange Counter](https://www.hackerrank.com/challenges/strange-code) | Easy | [![Java](https://img.icons8.com/color/40/000000/java-coffee-cup-logo.png)](https://github.com/anishLearnsToCode/hackerrank-algorithms/blob/master/src/implimentation/StrangeCounter.java) |
 | [3D Surface Area](https://www.hackerrank.com/challenges/3d-surface-area) | Medium | |
 | [Absolute Permutations](https://www.hackerrank.com/challenges/absolute-permutation) | Medium | |
 | [The Bomberman Game](https://www.hackerrank.com/challenges/bomber-man) | Medium | |
