@@ -143,7 +143,7 @@ I have also solved other domains on HackerRank that can be viewed at:
 ### Strings
 | Problem | Difficulty | Solution Link |
 |---------|:----------:|:-------------:|
-| [Strong Password](https://www.hackerrank.com/challenges/strong-password) | Easy | |
+| [Strong Password](https://www.hackerrank.com/challenges/strong-password) | Easy | [![Java](https://img.icons8.com/color/40/000000/java-coffee-cup-logo.png)](https://github.com/anishLearnsToCode/hackerrank-algorithms/blob/master/src/strings/StrongPassword.java) |
 | [Super Reduced String](https://www.hackerrank.com/challenges/reduced-string) | Easy | |
 | [CamelCase](https://www.hackerrank.com/challenges/camelcase) | Easy | |
 | [Two Characters](https://www.hackerrank.com/challenges/two-characters) | Easy | |
