@@ -1,15 +1,12 @@
 import java.util.Scanner;
 
 public class ThreeDSurfaceArea {
-    private static Scanner scanner = new Scanner(System.in);
+    private static final Scanner scanner = new Scanner(System.in);
 
     public static void main(String[] args) {
         int height = scanner.nextInt();
         int width = scanner.nextInt();
-
-        int[][] matrix = new int[height+2][width+2];
-        input(matrix);
-
+        int[][] matrix = getMatrix(height + 2, width + 2);
         System.out.println(surfaceArea(matrix, height, width));
     }
 
@@ -38,22 +35,13 @@ public class ThreeDSurfaceArea {
         return surfaceArea;
     }
 
-    private static void input(int[][] matrix) {
+    private static int[][] getMatrix(int length, int width) {
+        int[][] matrix = new int[length][width];
         for (int row=1 ; row < matrix.length-1; row++) {
             for (int column=1 ; column < matrix[row].length-1 ; column++) {
                 matrix[row][column] = scanner.nextInt();
             }
         }
-//        print(matrix);
-    }
-
-    private static void print(int[][] matrix) {
-        for(int[] row : matrix) {
-            System.out.print("{ ");
-            for(int column: row) {
-                System.out.print(column + " ");
-            }
-            System.out.println(" } ");
-        }
+        return matrix;
     }
 }
