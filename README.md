@@ -150,7 +150,7 @@ I have also solved other domains on HackerRank that can be viewed at:
 | [Caeser Cipher](https://www.hackerrank.com/challenges/caesar-cipher-1) | Easy | [![Java](https://img.icons8.com/color/40/000000/java-coffee-cup-logo.png)](https://github.com/anishLearnsToCode/hackerrank-algorithms/blob/master/src/strings/CaesarCipher.java) |
 | [Mars Exploration](https://www.hackerrank.com/challenges/mars-exploration) | Easy | [![Java](https://img.icons8.com/color/40/000000/java-coffee-cup-logo.png)](https://github.com/anishLearnsToCode/hackerrank-algorithms/blob/master/src/strings/MarsExploration.java) |
 | [HackerRank In a String!](https://www.hackerrank.com/challenges/hackerrank-in-a-string) | Easy | [![Java](https://img.icons8.com/color/40/000000/java-coffee-cup-logo.png)](https://github.com/anishLearnsToCode/hackerrank-algorithms/blob/master/src/strings/HackerRankInAString.java) |
-| [Pangrams](https://www.hackerrank.com/challenges/pangrams) | Easy | |
+| [Pangrams](https://www.hackerrank.com/challenges/pangrams) | Easy | [![Java](https://img.icons8.com/color/40/000000/java-coffee-cup-logo.png)](https://github.com/anishLearnsToCode/hackerrank-algorithms/blob/master/src/strings/Pangrams.java) |
 | [Weighted Uniform Strings](https://www.hackerrank.com/challenges/weighted-uniform-string) | Easy | |
 | [Separate The Numbers](https://www.hackerrank.com/challenges/separate-the-numbers) | Easy | |
 | [Funny String](https://www.hackerrank.com/challenges/funny-string) | Easy | |
