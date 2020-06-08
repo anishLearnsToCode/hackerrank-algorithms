@@ -157,7 +157,7 @@ I have also solved other domains on HackerRank that can be viewed at:
 | [Gemstones](https://www.hackerrank.com/challenges/gem-stones) | Easy | [![Java](https://img.icons8.com/color/40/000000/java-coffee-cup-logo.png)](https://github.com/anishLearnsToCode/hackerrank-algorithms/blob/master/src/strings/Gemstones.java) |
 | [Alternating Characters](https://www.hackerrank.com/challenges/alternating-characters) | Easy | [![Java](https://img.icons8.com/color/40/000000/java-coffee-cup-logo.png)](https://github.com/anishLearnsToCode/hackerrank-algorithms/blob/master/src/strings/AlternatingCharacters.java) |
 | [Beautiful Binary String](https://www.hackerrank.com/challenges/beautiful-binary-string) | Easy | [![Java](https://img.icons8.com/color/40/000000/java-coffee-cup-logo.png)](https://github.com/anishLearnsToCode/hackerrank-algorithms/blob/master/src/strings/BeautifulBinaryString.java) |
-| [The Love-Letter Mysetry](https://www.hackerrank.com/challenges/the-love-letter-mystery) | Easy | |
+| [The Love-Letter Mysetry](https://www.hackerrank.com/challenges/the-love-letter-mystery) | Easy | [![Java](https://img.icons8.com/color/40/000000/java-coffee-cup-logo.png)](https://github.com/anishLearnsToCode/hackerrank-algorithms/blob/master/src/strings/TheLoveLetterMystery.java) |
 | [Palindromic Index](https://www.hackerrank.com/challenges/palindrome-index) | Easy | |
 | [Anagram](https://www.hackerrank.com/challenges/anagram) | Easy | |
 | [Making Anagrams](https://www.hackerrank.com/challenges/making-anagrams) | Easy | |
