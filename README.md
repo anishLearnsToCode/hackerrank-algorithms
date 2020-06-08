@@ -167,9 +167,9 @@ I have also solved other domains on HackerRank that can be viewed at:
 | [Highest Value Palindrome](https://www.hackerrank.com/challenges/richie-rich) | Medium | [![Java](https://img.icons8.com/color/40/000000/java-coffee-cup-logo.png)](https://github.com/anishLearnsToCode/hackerrank-algorithms/blob/master/src/strings/HighestValuePalindrome.java) |
 | [Sherlock and The Valid String](https://www.hackerrank.com/challenges/sherlock-and-valid-string) | Medium | [![Java](https://img.icons8.com/color/40/000000/java-coffee-cup-logo.png)](https://github.com/anishLearnsToCode/hackerrank-algorithms/blob/master/src/strings/SherlockAndTheValidString.java) |
 | [Maximum Palindromes](https://www.hackerrank.com/challenges/maximum-palindromes) | Medium | [![Java](https://img.icons8.com/color/40/000000/java-coffee-cup-logo.png)](https://github.com/anishLearnsToCode/hackerrank-algorithms/blob/master/src/strings/CommonChild.java) |
-| [Sherlock and Anagrams](https://www.hackerrank.com/challenges/sherlock-and-anagrams) | Medium | |
-| [Common Child](https://www.hackerrank.com/challenges/common-child) | Medium | |
-| [Bear and Steady Gene](https://www.hackerrank.com/challenges/bear-and-steady-gene) | Medium | |
+| [Sherlock and Anagrams](https://www.hackerrank.com/challenges/sherlock-and-anagrams) | Medium | [![Java](https://img.icons8.com/color/40/000000/java-coffee-cup-logo.png)]() |
+| [Common Child](https://www.hackerrank.com/challenges/common-child) | Medium | [![Java](https://img.icons8.com/color/40/000000/java-coffee-cup-logo.png)](https://github.com/anishLearnsToCode/hackerrank-algorithms/blob/master/src/strings/CommonChild.java) |
+| [Bear and Steady Gene](https://www.hackerrank.com/challenges/bear-and-steady-gene) | Medium | [![Java](https://img.icons8.com/color/40/000000/java-coffee-cup-logo.png)](https://github.com/anishLearnsToCode/hackerrank-algorithms/blob/master/src/strings/BearAndSteadyGene.java) |
 | [Determining DNA Health](https://www.hackerrank.com/challenges/determining-dna-health) | Hard | |
 | [Morgan and String](https://www.hackerrank.com/challenges/morgan-and-a-string) | Expert | |
 | [Count Strings](https://www.hackerrank.com/challenges/count-strings) | Hard | |
