@@ -148,7 +148,7 @@ I have also solved other domains on HackerRank that can be viewed at:
 | [CamelCase](https://www.hackerrank.com/challenges/camelcase) | Easy | [![Java](https://img.icons8.com/color/40/000000/java-coffee-cup-logo.png)](https://github.com/anishLearnsToCode/hackerrank-algorithms/blob/master/src/strings/CamelCase.java) |
 | [Two Characters](https://www.hackerrank.com/challenges/two-characters) | Easy | [![Java](https://img.icons8.com/color/40/000000/java-coffee-cup-logo.png)](https://github.com/anishLearnsToCode/hackerrank-algorithms/blob/master/src/strings/TwoCharacters.java) |
 | [Caeser Cipher](https://www.hackerrank.com/challenges/caesar-cipher-1) | Easy | [![Java](https://img.icons8.com/color/40/000000/java-coffee-cup-logo.png)](https://github.com/anishLearnsToCode/hackerrank-algorithms/blob/master/src/strings/CaesarCipher.java) |
-| [Mars Exploration](https://www.hackerrank.com/challenges/mars-exploration) | Easy | |
+| [Mars Exploration](https://www.hackerrank.com/challenges/mars-exploration) | Easy | [![Java](https://img.icons8.com/color/40/000000/java-coffee-cup-logo.png)](https://github.com/anishLearnsToCode/hackerrank-algorithms/blob/master/src/strings/MarsExploration.java) |
 | [HackerRank Is a String!](https://www.hackerrank.com/challenges/hackerrank-in-a-string) | Easy | |
 | [Pangrams](https://www.hackerrank.com/challenges/pangrams) | Easy | |
 | [Weighted Uniform Strings](https://www.hackerrank.com/challenges/weighted-uniform-string) | Easy | |
