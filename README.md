@@ -163,7 +163,7 @@ I have also solved other domains on HackerRank that can be viewed at:
 | [Making Anagrams](https://www.hackerrank.com/challenges/making-anagrams) | Easy | [![Java](https://img.icons8.com/color/40/000000/java-coffee-cup-logo.png)](https://github.com/anishLearnsToCode/hackerrank-algorithms/blob/master/src/strings/MakingAnagrams.java) |
 | [Game of Thrones - I](https://www.hackerrank.com/challenges/game-of-thrones) | Easy | [![Java](https://img.icons8.com/color/40/000000/java-coffee-cup-logo.png)](https://github.com/anishLearnsToCode/hackerrank-algorithms/blob/master/src/strings/GameOfThronesI.java) |
 | [Two Strings](https://www.hackerrank.com/challenges/two-strings) | Easy | [![Java](https://img.icons8.com/color/40/000000/java-coffee-cup-logo.png)](https://github.com/anishLearnsToCode/hackerrank-algorithms/blob/master/src/strings/TwoStrings.java) |
-| [String Concatenation](https://www.hackerrank.com/challenges/string-construction) | Easy | |
+| [String Construction](https://www.hackerrank.com/challenges/string-construction) | Easy | [![Java](https://img.icons8.com/color/40/000000/java-coffee-cup-logo.png)](https://github.com/anishLearnsToCode/hackerrank-algorithms/blob/master/src/strings/StringConstruction.java) |
 | [Highest Value Palindrome](https://www.hackerrank.com/challenges/richie-rich) | Medium | |
 | [Sherlock and The Valid String](https://www.hackerrank.com/challenges/sherlock-and-valid-string) | Medium | |
 | [Maximum Palindromes](https://www.hackerrank.com/challenges/maximum-palindromes) | Medium | |
