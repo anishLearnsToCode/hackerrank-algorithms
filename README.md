@@ -159,7 +159,7 @@ I have also solved other domains on HackerRank that can be viewed at:
 | [Beautiful Binary String](https://www.hackerrank.com/challenges/beautiful-binary-string) | Easy | [![Java](https://img.icons8.com/color/40/000000/java-coffee-cup-logo.png)](https://github.com/anishLearnsToCode/hackerrank-algorithms/blob/master/src/strings/BeautifulBinaryString.java) |
 | [The Love-Letter Mysetry](https://www.hackerrank.com/challenges/the-love-letter-mystery) | Easy | [![Java](https://img.icons8.com/color/40/000000/java-coffee-cup-logo.png)](https://github.com/anishLearnsToCode/hackerrank-algorithms/blob/master/src/strings/TheLoveLetterMystery.java) |
 | [Palindromic Index](https://www.hackerrank.com/challenges/palindrome-index) | Easy | [![Java](https://img.icons8.com/color/40/000000/java-coffee-cup-logo.png)](https://github.com/anishLearnsToCode/hackerrank-algorithms/blob/master/src/strings/PalindromeIndex.java) |
-| [Anagram](https://www.hackerrank.com/challenges/anagram) | Easy | |
+| [Anagram](https://www.hackerrank.com/challenges/anagram) | Easy | [![Java](https://img.icons8.com/color/40/000000/java-coffee-cup-logo.png)](https://github.com/anishLearnsToCode/hackerrank-algorithms/blob/master/src/strings/Anagram.java) |
 | [Making Anagrams](https://www.hackerrank.com/challenges/making-anagrams) | Easy | |
 | [Game of Thrones - I](https://www.hackerrank.com/challenges/game-of-thrones) | Easy | |
 | [Two Strings](https://www.hackerrank.com/challenges/two-strings) | Easy | |
