@@ -153,7 +153,7 @@ I have also solved other domains on HackerRank that can be viewed at:
 | [Pangrams](https://www.hackerrank.com/challenges/pangrams) | Easy | [![Java](https://img.icons8.com/color/40/000000/java-coffee-cup-logo.png)](https://github.com/anishLearnsToCode/hackerrank-algorithms/blob/master/src/strings/Pangrams.java) |
 | [Weighted Uniform Strings](https://www.hackerrank.com/challenges/weighted-uniform-string) | Easy | [![Java](https://img.icons8.com/color/40/000000/java-coffee-cup-logo.png)](https://github.com/anishLearnsToCode/hackerrank-algorithms/blob/master/src/strings/WeightedUniformStrings.java) |
 | [Separate The Numbers](https://www.hackerrank.com/challenges/separate-the-numbers) | Easy | [![Java](https://img.icons8.com/color/40/000000/java-coffee-cup-logo.png)](https://github.com/anishLearnsToCode/hackerrank-algorithms/blob/master/src/strings/SeparateTheNumbers.java) |
-| [Funny String](https://www.hackerrank.com/challenges/funny-string) | Easy | [![Java](https://img.icons8.com/color/40/000000/java-coffee-cup-logo.png)]() |
+| [Funny String](https://www.hackerrank.com/challenges/funny-string) | Easy | [![Java](https://img.icons8.com/color/40/000000/java-coffee-cup-logo.png)](https://github.com/anishLearnsToCode/hackerrank-algorithms/blob/master/src/strings/FunnyString.java) |
 | [Gemstones](https://www.hackerrank.com/challenges/gem-stones) | Easy | |
 | [Alternating Characters](https://www.hackerrank.com/challenges/alternating-characters) | Easy | |
 | [Beautiful Binary String](https://www.hackerrank.com/challenges/beautiful-binary-string) | Easy | |
