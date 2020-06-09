@@ -26,7 +26,7 @@ public class CommonChild {
             }
         }
 
-        return matrix[rows -1][columns - 1];
+        return matrix[rows - 1][columns - 1];
     }
 
     private static int max(int... numbers) {
