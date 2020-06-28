@@ -1,33 +1,40 @@
 # HackerRank Algorithms Solutions
 HackerRank is an online platform that offers programmers the ability to test their
-sills, practice and learn something new. 
+sills, practice and learn something new. The problem sets on HackerRank are divided in Domains & Tutorials, 
+and the following are the domains & tutorials on HackerRank:
 
-The problem sets on HackerRank are divided in Domains & Tutorials, and the following are the domains & 
-tutorials on HackerRank:
+<details>
+    <summary><b>Domains</b></summary>
+    <ul>
+        <li><a href="https://www.hackerrank.com/domains/algorithms">Algorithms</a></li>
+        <li><a href="https://www.hackerrank.com/domains/data-structures">Data Structures</a></li>
+        <li><a href="https://www.hackerrank.com/domains/mathematics">Mathematics</a></li>
+        <li><a href="https://www.hackerrank.com/domains/c">C</a></li>
+        <li><a href="https://www.hackerrank.com/domains/cpp">C++</a></li>
+        <li><a href="https://www.hackerrank.com/domains/java">Java</a></li>
+        <li><a href="https://www.hackerrank.com/domains/python">Python</a></li>
+        <li><a href="https://www.hackerrank.com/domains/ruby">Ruby</a></li>
+        <li><a href="https://www.hackerrank.com/domains/shell">Linux Shell</a></li>
+        <li><a href="https://www.hackerrank.com/domains/fp">Functional Programming</a></li>
+        <li><a href="https://www.hackerrank.com/domains/ai">Artificial Intelligence</a></li>
+        <li><a href="https://www.hackerrank.com/domains/sql">SQL</a></li>
+        <li><a href="https://www.hackerrank.com/domains/databases">Databases</a></li>
+        <li><a href="https://www.hackerrank.com/domains/regex">Regex</a></li>
+    </ul>
+</details>
 
-## Domains
-1. [Algorithms](https://www.hackerrank.com/domains/algorithms)
-2. [Data Structures](https://www.hackerrank.com/domains/data-structures)
-3. [Mathematics](https://www.hackerrank.com/domains/mathematics) 
-4. [C](https://www.hackerrank.com/domains/c)
-5. [C++](https://www.hackerrank.com/domains/cpp)
-6. [Java](https://www.hackerrank.com/domains/java)
-7. [Python](https://www.hackerrank.com/domains/python)
-8. [Ruby](https://www.hackerrank.com/domains/ruby)
-9. [Linux Shell](https://www.hackerrank.com/domains/shell)
-10. [Functional Programming](https://www.hackerrank.com/domains/fp)
-11. [Artificial Intelligence](https://www.hackerrank.com/domains/ai)
-12. [SQL](https://www.hackerrank.com/domains/sql)
-13. [Databases](https://www.hackerrank.com/domains/databases)
-14. [Regex](https://www.hackerrank.com/domains/regex)
+<details>
+    <summary><b>Tutorials</b></summary>
+    <ul>
+        <li><a href="https://www.hackerrank.com/interview">Interview Preparation Kit</a></li>
+        <li><a href="https://www.hackerrank.com/domains/tutorials/30-days-of-code">30 Days of Code</a></li>
+        <li><a href="https://www.hackerrank.com/domains/tutorials/10-days-of-statistics">10 Days of Statistics</a></li>
+        <li><a href="https://www.hackerrank.com/domains/tutorials/10-days-of-javascript">10 Days of JavaScript</a></li>
+    </ul>
+</details>
 
-## Tutorials
-1. [Interview Preparation Kit](https://www.hackerrank.com/interview) 
-2. [Learn To Code in 30 Days](https://www.hackerrank.com/domains/tutorials/30-days-of-code) 
-3. [10 Days of Statistics](https://www.hackerrank.com/domains/tutorials/10-days-of-statistics)
-4. [10 Days of Javascript](https://www.hackerrank.com/domains/tutorials/10-days-of-javascript) 
-
-This repository contains solutions to the Algorithms domain part of HackerRank. My
+This repository contains solutions to the 
+[Algorithms Domain](https://www.hackerrank.com/domains/algorithms) part of HackerRank. My
 HackerRank profile can be viewed [here](https://www.hackerrank.com/anishviewer).
 
 The Algorithms Domain Falls under a broader Problem Solving Skill Set in HackerRank
@@ -54,8 +61,12 @@ I have also solved other domains on HackerRank that can be viewed at:
 | [Interview Preparation Kit](https://www.hackerrank.com/interview) | [Solutions Repository](https://github.com/anishLearnsToCode/hackerrank-interview-preparation-kit) |
 
 ## Sub Domains & Problems (+Solutions) in the Algorithms Domain
+Quick Links ⚡ : 
+[Warm up](#warmup-) |
+[Implementation](#implementation-) |
+[Strings](#strings-) |
 
-### Warmup
+### Warmup [👆](#sub-domains--problems-solutions-in-the-algorithms-domain)
 | Problem | Difficulty | Solution Link |
 |---------|:----------:|:-------------:|
 | [Solve Me First](https://www.hackerrank.com/challenges/solve-me-first) | Easy | [![Java](https://img.icons8.com/color/40/000000/java-coffee-cup-logo.png)](https://github.com/anishLearnsToCode/hackerrank-algorithms/blob/master/src/warmup/SolveMeFirst.java) [![Python](https://img.icons8.com/color/35/000000/python.png)](https://github.com/anishLearnsToCode/hackerrank-algorithms/blob/master/python/warmup/solve-me-first.py) |
@@ -70,7 +81,7 @@ I have also solved other domains on HackerRank that can be viewed at:
 | [Time Conversion](https://www.hackerrank.com/challenges/time-conversion) | Easy | [![Java](https://img.icons8.com/color/40/000000/java-coffee-cup-logo.png)](https://github.com/anishLearnsToCode/hackerrank-algorithms/blob/master/src/warmup/TimeConversion.java) |
 
 
-### Implementation
+### Implementation [👆](#sub-domains--problems-solutions-in-the-algorithms-domain)
 | Problem | Difficulty | Solution Link |
 |---------|:----------:|:-------------:|
 | [Grading Students](https://www.hackerrank.com/challenges/grading) | Easy | [![Java](https://img.icons8.com/color/40/000000/java-coffee-cup-logo.png)](https://github.com/anishLearnsToCode/hackerrank-algorithms/blob/master/src/implimentation/GradingStudents.java) |
@@ -140,7 +151,7 @@ I have also solved other domains on HackerRank that can be viewed at:
 | [Matrix Layer Rotation](https://www.hackerrank.com/challenges/matrix-rotation-algo) | Hard | [![Java](https://img.icons8.com/color/40/000000/java-coffee-cup-logo.png)](https://github.com/anishLearnsToCode/hackerrank-algorithms/blob/master/src/implimentation/MatrixLayerRotation.java) |
 | [Bigger is Greater](https://www.hackerrank.com/challenges/bigger-is-greater) | Medium | [![Java](https://img.icons8.com/color/40/000000/java-coffee-cup-logo.png)](https://github.com/anishLearnsToCode/hackerrank-algorithms/blob/master/src/implimentation/BiggerIsGreater.java) |
 
-### Strings
+### Strings [👆](#sub-domains--problems-solutions-in-the-algorithms-domain)
 | Problem | Difficulty | Solution Link |
 |---------|:----------:|:-------------:|
 | [Strong Password](https://www.hackerrank.com/challenges/strong-password) | Easy | [![Java](https://img.icons8.com/color/40/000000/java-coffee-cup-logo.png)](https://github.com/anishLearnsToCode/hackerrank-algorithms/blob/master/src/strings/StrongPassword.java) |
