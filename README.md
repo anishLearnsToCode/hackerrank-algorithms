@@ -1,4 +1,17 @@
 # HackerRank Algorithms Solutions
+
+![HitCount](http://hits.dwyl.com/anishLearnsToCode/hackerrank-algorithms.svg)
+![made-with-java](https://img.shields.io/badge/Made%20with-Java-1f425f.svg)
+![made-with-python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg)
+![made-with-cpp](https://img.shields.io/badge/Made%20with-C++-1f425f.svg)
+![problems-solved](https://img.shields.io/badge/Problems%20Solved-<50%25-1abc9c.svg)
+[![license](https://img.shields.io/badge/LICENSE-MIT-<COLOR>.svg)](LICENSE)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](Contributing.md)
+[![hackerrank-python](https://img.shields.io/badge/hackerrank-python-1f72ff.svg)](https://github.com/anishLearnsToCode/hackerrank-python)
+[![hackerrank-ds](https://img.shields.io/badge/hackerrank-Data%20Structures-1f72ff.svg)](https://github.com/anishLearnsToCode/hackerrank-data-structures)
+[![hackerrank-java](https://img.shields.io/badge/hackerrank-java-1f72ff.svg)](https://github.com/anishLearnsToCode/hackerrank-java)
+[![hackerrank-interview-prep](https://img.shields.io/badge/hackerrank-Interview%20Preparation%20Kit-1f72ff.svg)](https://github.com/anishLearnsToCode/hackerrank-interview-preparation-kit)
+
 HackerRank is an online platform that offers programmers the ability to test their
 sills, practice and learn something new. The problem sets on HackerRank are divided in Domains & Tutorials, 
 and the following are the domains & tutorials on HackerRank:
