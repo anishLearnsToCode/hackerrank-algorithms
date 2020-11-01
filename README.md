@@ -4,7 +4,7 @@
 ![made-with-python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg)
 ![made-with-cpp](https://img.shields.io/badge/Made%20with-C++-1f425f.svg)
 ![problems-solved](https://img.shields.io/badge/Problems%20Solved-<50%25-1abc9c.svg)
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](Contributing.md)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](Contributing.md)
 [![cp](https://img.shields.io/badge/also%20see-Competitve%20Programming-1f72ff.svg)](https://github.com/anishLearnsToCode/competitive-programming)
 
 HackerRank is an online platform that offers programmers the ability to test their
