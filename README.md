@@ -43,7 +43,6 @@ and the following are the domains & tutorials on HackerRank:
 
 This repository contains solutions to the 
 [Algorithms Domain](https://www.hackerrank.com/domains/algorithms) part of HackerRank.
-
 The Algorithms Domain Falls under a broader Problem Solving Skill Set in HackerRank
 which consists of both 
 [Data Structures](https://www.hackerrank.com/domains/data-structures) 
@@ -53,9 +52,7 @@ The Algorithms Domain is further Divided into the following sub-domains.
 
 To Contribute have a look at 
 [Contributing.md](https://github.com/anishLearnsToCode/hackerrank-algorithms/blob/master/Contributing.md) 
-and happy coding 😀 🐱‍💻
-
-I have also solved other domains on HackerRank that can be viewed [here](https://github.com/anishLearnsToCode/competitive-programming):
+and happy coding 😀 🐱‍💻.
 
 ## Sub Domains & Problems (+Solutions) in the Algorithms Domain
 Quick Links ⚡ : 
