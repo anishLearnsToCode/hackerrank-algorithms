@@ -477,6 +477,7 @@ and happy coding 😀 🐱‍💻.
 
 
 ### Game Theory ![problems-solved](https://img.shields.io/badge/Solved-0/32-1abc9c.svg)
+
 | Problem | Difficulty | Solution Link |
 |---------|:----------:|:-------------:|
 | [Game Of Stones](https://www.hackerrank.com/challenges/game-of-stones-1) | Easy | |
@@ -512,6 +513,23 @@ and happy coding 😀 🐱‍💻.
 | [The Prime Game](https://www.hackerrank.com/challenges/the-prime-game) | Hard | |
 | [Tastes Like Winning](https://www.hackerrank.com/challenges/taste-of-win) | Expert | |
 
-### NP Complete ![problems-solved](https://img.shields.io/badge/Solved-0/23-1abc9c.svg)
 
-### Debugging ![problems-solved](https://img.shields.io/badge/Solved-0/23-1abc9c.svg)
+### NP Complete ![problems-solved](https://img.shields.io/badge/Solved-0/4-1abc9c.svg)
+
+| Problem | Difficulty | Solution Link |
+|---------|:----------:|:-------------:|
+| [Walking The Approximate Longest Path](https://www.hackerrank.com/challenges/walking-the-approximate-longest-path) | Hard | |
+| [Sam's Puzzle (Approximate)](https://www.hackerrank.com/challenges/sams-puzzle) | Advanced | |
+| [Spies, Revised](https://www.hackerrank.com/challenges/spies-revised) | Expert | |
+| [TBS Problem](https://www.hackerrank.com/challenges/tbsp) | Expert | |
+
+
+### Debugging ![problems-solved](https://img.shields.io/badge/Solved-0/5-1abc9c.svg)
+
+| Problem | Difficulty | Solution Link |
+|---------|:----------:|:-------------:|
+| [XOR Strings](https://www.hackerrank.com/challenges/strings-xor) | Easy | |
+| [Smart Number](https://www.hackerrank.com/challenges/smart-number) | Easy | |
+| [Prime Dates](https://www.hackerrank.com/challenges/prime-date) | Medium | |
+| [Minimum Operations](https://www.hackerrank.com/challenges/minimum-operations) | Medium | |
+| [Zig Zag Sequence](https://www.hackerrank.com/challenges/zig-zag-sequence) | Medium | |
