@@ -25,8 +25,10 @@ and happy coding 😀 🐱‍💻.
 [Warm up](#warmup-) |
 [Implementation](#implementation-) |
 [Strings](#strings-) |
+[Sorting](#sorting-) |
+[Search]()
 
-### Warmup [👆](#sub-domains--problems-solutions-in-the-algorithms-domain) ![problems-solved](https://img.shields.io/badge/Solved-10/10-1abc9c.svg)
+### Warmup ![problems-solved](https://img.shields.io/badge/Solved-10/10-1abc9c.svg)
 | Problem | Difficulty | Solution Link |
 |---------|:----------:|:-------------:|
 | [Solve Me First](https://www.hackerrank.com/challenges/solve-me-first) | Easy | [![Java](https://img.icons8.com/color/40/000000/java-coffee-cup-logo.png)](src/warmup/SolveMeFirst.java) [![Python](https://img.icons8.com/color/35/000000/python.png)](python/warmup/solve-me-first.py) |
@@ -41,7 +43,7 @@ and happy coding 😀 🐱‍💻.
 | [Time Conversion](https://www.hackerrank.com/challenges/time-conversion) | Easy | [![Java](https://img.icons8.com/color/40/000000/java-coffee-cup-logo.png)](src/warmup/TimeConversion.java) |
 
 
-### Implementation [👆](#sub-domains--problems-solutions-in-the-algorithms-domain) ![problems-solved](https://img.shields.io/badge/Solved-66/66-1abc9c.svg)
+### Implementation ![problems-solved](https://img.shields.io/badge/Solved-66/66-1abc9c.svg)
 | Problem | Difficulty | Solution Link |
 |---------|:----------:|:-------------:|
 | [Grading Students](https://www.hackerrank.com/challenges/grading) | Easy | [![Java](https://img.icons8.com/color/40/000000/java-coffee-cup-logo.png)](src/implimentation/GradingStudents.java) |
@@ -111,36 +113,36 @@ and happy coding 😀 🐱‍💻.
 | [Matrix Layer Rotation](https://www.hackerrank.com/challenges/matrix-rotation-algo) | Hard | [![Java](https://img.icons8.com/color/40/000000/java-coffee-cup-logo.png)](src/implimentation/MatrixLayerRotation.java) |
 | [Bigger is Greater](https://www.hackerrank.com/challenges/bigger-is-greater) | Medium | [![Java](https://img.icons8.com/color/40/000000/java-coffee-cup-logo.png)](src/implimentation/BiggerIsGreater.java) |
 
-### Strings [👆](#sub-domains--problems-solutions-in-the-algorithms-domain) ![problems-solved](https://img.shields.io/badge/Solved-27/48-1abc9c.svg)
+### Strings ![problems-solved](https://img.shields.io/badge/Solved-27/48-1abc9c.svg)
 | Problem | Difficulty | Solution Link |
 |---------|:----------:|:-------------:|
-| [Strong Password](https://www.hackerrank.com/challenges/strong-password) | Easy | [![Java](https://img.icons8.com/color/40/000000/java-coffee-cup-logo.png)](https://github.com/anishLearnsToCode/hackerrank-algorithms/blob/master/src/strings/StrongPassword.java) |
-| [Super Reduced String](https://www.hackerrank.com/challenges/reduced-string) | Easy | [![Java](https://img.icons8.com/color/40/000000/java-coffee-cup-logo.png)](https://github.com/anishLearnsToCode/hackerrank-algorithms/blob/master/src/strings/SuperReducedString.java) |
-| [CamelCase](https://www.hackerrank.com/challenges/camelcase) | Easy | [![Java](https://img.icons8.com/color/40/000000/java-coffee-cup-logo.png)](https://github.com/anishLearnsToCode/hackerrank-algorithms/blob/master/src/strings/CamelCase.java) |
-| [Two Characters](https://www.hackerrank.com/challenges/two-characters) | Easy | [![Java](https://img.icons8.com/color/40/000000/java-coffee-cup-logo.png)](https://github.com/anishLearnsToCode/hackerrank-algorithms/blob/master/src/strings/TwoCharacters.java) |
-| [Caeser Cipher](https://www.hackerrank.com/challenges/caesar-cipher-1) | Easy | [![Java](https://img.icons8.com/color/40/000000/java-coffee-cup-logo.png)](https://github.com/anishLearnsToCode/hackerrank-algorithms/blob/master/src/strings/CaesarCipher.java) |
-| [Mars Exploration](https://www.hackerrank.com/challenges/mars-exploration) | Easy | [![Java](https://img.icons8.com/color/40/000000/java-coffee-cup-logo.png)](https://github.com/anishLearnsToCode/hackerrank-algorithms/blob/master/src/strings/MarsExploration.java) |
-| [HackerRank In a String!](https://www.hackerrank.com/challenges/hackerrank-in-a-string) | Easy | [![Java](https://img.icons8.com/color/40/000000/java-coffee-cup-logo.png)](https://github.com/anishLearnsToCode/hackerrank-algorithms/blob/master/src/strings/HackerRankInAString.java) |
-| [Pangrams](https://www.hackerrank.com/challenges/pangrams) | Easy | [![Java](https://img.icons8.com/color/40/000000/java-coffee-cup-logo.png)](https://github.com/anishLearnsToCode/hackerrank-algorithms/blob/master/src/strings/Pangrams.java) |
-| [Weighted Uniform Strings](https://www.hackerrank.com/challenges/weighted-uniform-string) | Easy | [![Java](https://img.icons8.com/color/40/000000/java-coffee-cup-logo.png)](https://github.com/anishLearnsToCode/hackerrank-algorithms/blob/master/src/strings/WeightedUniformStrings.java) |
-| [Separate The Numbers](https://www.hackerrank.com/challenges/separate-the-numbers) | Easy | [![Java](https://img.icons8.com/color/40/000000/java-coffee-cup-logo.png)](https://github.com/anishLearnsToCode/hackerrank-algorithms/blob/master/src/strings/SeparateTheNumbers.java) |
-| [Funny String](https://www.hackerrank.com/challenges/funny-string) | Easy | [![Java](https://img.icons8.com/color/40/000000/java-coffee-cup-logo.png)](https://github.com/anishLearnsToCode/hackerrank-algorithms/blob/master/src/strings/FunnyString.java) |
-| [Gemstones](https://www.hackerrank.com/challenges/gem-stones) | Easy | [![Java](https://img.icons8.com/color/40/000000/java-coffee-cup-logo.png)](https://github.com/anishLearnsToCode/hackerrank-algorithms/blob/master/src/strings/Gemstones.java) |
-| [Alternating Characters](https://www.hackerrank.com/challenges/alternating-characters) | Easy | [![Java](https://img.icons8.com/color/40/000000/java-coffee-cup-logo.png)](https://github.com/anishLearnsToCode/hackerrank-algorithms/blob/master/src/strings/AlternatingCharacters.java) |
-| [Beautiful Binary String](https://www.hackerrank.com/challenges/beautiful-binary-string) | Easy | [![Java](https://img.icons8.com/color/40/000000/java-coffee-cup-logo.png)](https://github.com/anishLearnsToCode/hackerrank-algorithms/blob/master/src/strings/BeautifulBinaryString.java) |
-| [The Love-Letter Mysetry](https://www.hackerrank.com/challenges/the-love-letter-mystery) | Easy | [![Java](https://img.icons8.com/color/40/000000/java-coffee-cup-logo.png)](https://github.com/anishLearnsToCode/hackerrank-algorithms/blob/master/src/strings/TheLoveLetterMystery.java) |
-| [Palindromic Index](https://www.hackerrank.com/challenges/palindrome-index) | Easy | [![Java](https://img.icons8.com/color/40/000000/java-coffee-cup-logo.png)](https://github.com/anishLearnsToCode/hackerrank-algorithms/blob/master/src/strings/PalindromeIndex.java) |
-| [Anagram](https://www.hackerrank.com/challenges/anagram) | Easy | [![Java](https://img.icons8.com/color/40/000000/java-coffee-cup-logo.png)](https://github.com/anishLearnsToCode/hackerrank-algorithms/blob/master/src/strings/Anagram.java) |
-| [Making Anagrams](https://www.hackerrank.com/challenges/making-anagrams) | Easy | [![Java](https://img.icons8.com/color/40/000000/java-coffee-cup-logo.png)](https://github.com/anishLearnsToCode/hackerrank-algorithms/blob/master/src/strings/MakingAnagrams.java) |
-| [Game of Thrones - I](https://www.hackerrank.com/challenges/game-of-thrones) | Easy | [![Java](https://img.icons8.com/color/40/000000/java-coffee-cup-logo.png)](https://github.com/anishLearnsToCode/hackerrank-algorithms/blob/master/src/strings/GameOfThronesI.java) |
-| [Two Strings](https://www.hackerrank.com/challenges/two-strings) | Easy | [![Java](https://img.icons8.com/color/40/000000/java-coffee-cup-logo.png)](https://github.com/anishLearnsToCode/hackerrank-algorithms/blob/master/src/strings/TwoStrings.java) |
-| [String Construction](https://www.hackerrank.com/challenges/string-construction) | Easy | [![Java](https://img.icons8.com/color/40/000000/java-coffee-cup-logo.png)](https://github.com/anishLearnsToCode/hackerrank-algorithms/blob/master/src/strings/StringConstruction.java) |
-| [Highest Value Palindrome](https://www.hackerrank.com/challenges/richie-rich) | Medium | [![Java](https://img.icons8.com/color/40/000000/java-coffee-cup-logo.png)](https://github.com/anishLearnsToCode/hackerrank-algorithms/blob/master/src/strings/HighestValuePalindrome.java) |
-| [Sherlock and The Valid String](https://www.hackerrank.com/challenges/sherlock-and-valid-string) | Medium | [![Java](https://img.icons8.com/color/40/000000/java-coffee-cup-logo.png)](https://github.com/anishLearnsToCode/hackerrank-algorithms/blob/master/src/strings/SherlockAndTheValidString.java) |
-| [Maximum Palindromes](https://www.hackerrank.com/challenges/maximum-palindromes) | Medium | [![Java](https://img.icons8.com/color/40/000000/java-coffee-cup-logo.png)](https://github.com/anishLearnsToCode/hackerrank-algorithms/blob/master/src/strings/CommonChild.java) |
-| [Sherlock and Anagrams](https://www.hackerrank.com/challenges/sherlock-and-anagrams) | Medium | [![Java](https://img.icons8.com/color/40/000000/java-coffee-cup-logo.png)](https://github.com/anishLearnsToCode/hackerrank-algorithms/blob/master/src/strings/SherlockAndAnagrams.java) |
-| [Common Child](https://www.hackerrank.com/challenges/common-child) | Medium | [![Java](https://img.icons8.com/color/40/000000/java-coffee-cup-logo.png)](https://github.com/anishLearnsToCode/hackerrank-algorithms/blob/master/src/strings/CommonChild.java) |
-| [Bear and Steady Gene](https://www.hackerrank.com/challenges/bear-and-steady-gene) | Medium | [![Java](https://img.icons8.com/color/40/000000/java-coffee-cup-logo.png)](https://github.com/anishLearnsToCode/hackerrank-algorithms/blob/master/src/strings/BearAndSteadyGene.java) |
+| [Strong Password](https://www.hackerrank.com/challenges/strong-password) | Easy | [![Java](https://img.icons8.com/color/40/000000/java-coffee-cup-logo.png)](src/strings/StrongPassword.java) |
+| [Super Reduced String](https://www.hackerrank.com/challenges/reduced-string) | Easy | [![Java](https://img.icons8.com/color/40/000000/java-coffee-cup-logo.png)](src/strings/SuperReducedString.java) |
+| [CamelCase](https://www.hackerrank.com/challenges/camelcase) | Easy | [![Java](https://img.icons8.com/color/40/000000/java-coffee-cup-logo.png)](src/strings/CamelCase.java) |
+| [Two Characters](https://www.hackerrank.com/challenges/two-characters) | Easy | [![Java](https://img.icons8.com/color/40/000000/java-coffee-cup-logo.png)](src/strings/TwoCharacters.java) |
+| [Caeser Cipher](https://www.hackerrank.com/challenges/caesar-cipher-1) | Easy | [![Java](https://img.icons8.com/color/40/000000/java-coffee-cup-logo.png)](src/strings/CaesarCipher.java) |
+| [Mars Exploration](https://www.hackerrank.com/challenges/mars-exploration) | Easy | [![Java](https://img.icons8.com/color/40/000000/java-coffee-cup-logo.png)](src/strings/MarsExploration.java) |
+| [HackerRank In a String!](https://www.hackerrank.com/challenges/hackerrank-in-a-string) | Easy | [![Java](https://img.icons8.com/color/40/000000/java-coffee-cup-logo.png)](src/strings/HackerRankInAString.java) |
+| [Pangrams](https://www.hackerrank.com/challenges/pangrams) | Easy | [![Java](https://img.icons8.com/color/40/000000/java-coffee-cup-logo.png)](src/strings/Pangrams.java) |
+| [Weighted Uniform Strings](https://www.hackerrank.com/challenges/weighted-uniform-string) | Easy | [![Java](https://img.icons8.com/color/40/000000/java-coffee-cup-logo.png)](src/strings/WeightedUniformStrings.java) |
+| [Separate The Numbers](https://www.hackerrank.com/challenges/separate-the-numbers) | Easy | [![Java](https://img.icons8.com/color/40/000000/java-coffee-cup-logo.png)](src/strings/SeparateTheNumbers.java) |
+| [Funny String](https://www.hackerrank.com/challenges/funny-string) | Easy | [![Java](https://img.icons8.com/color/40/000000/java-coffee-cup-logo.png)](src/strings/FunnyString.java) |
+| [Gemstones](https://www.hackerrank.com/challenges/gem-stones) | Easy | [![Java](https://img.icons8.com/color/40/000000/java-coffee-cup-logo.png)](src/strings/Gemstones.java) |
+| [Alternating Characters](https://www.hackerrank.com/challenges/alternating-characters) | Easy | [![Java](https://img.icons8.com/color/40/000000/java-coffee-cup-logo.png)](src/strings/AlternatingCharacters.java) |
+| [Beautiful Binary String](https://www.hackerrank.com/challenges/beautiful-binary-string) | Easy | [![Java](https://img.icons8.com/color/40/000000/java-coffee-cup-logo.png)](src/strings/BeautifulBinaryString.java) |
+| [The Love-Letter Mysetry](https://www.hackerrank.com/challenges/the-love-letter-mystery) | Easy | [![Java](https://img.icons8.com/color/40/000000/java-coffee-cup-logo.png)](src/strings/TheLoveLetterMystery.java) |
+| [Palindromic Index](https://www.hackerrank.com/challenges/palindrome-index) | Easy | [![Java](https://img.icons8.com/color/40/000000/java-coffee-cup-logo.png)](src/strings/PalindromeIndex.java) |
+| [Anagram](https://www.hackerrank.com/challenges/anagram) | Easy | [![Java](https://img.icons8.com/color/40/000000/java-coffee-cup-logo.png)](src/strings/Anagram.java) |
+| [Making Anagrams](https://www.hackerrank.com/challenges/making-anagrams) | Easy | [![Java](https://img.icons8.com/color/40/000000/java-coffee-cup-logo.png)](src/strings/MakingAnagrams.java) |
+| [Game of Thrones - I](https://www.hackerrank.com/challenges/game-of-thrones) | Easy | [![Java](https://img.icons8.com/color/40/000000/java-coffee-cup-logo.png)](src/strings/GameOfThronesI.java) |
+| [Two Strings](https://www.hackerrank.com/challenges/two-strings) | Easy | [![Java](https://img.icons8.com/color/40/000000/java-coffee-cup-logo.png)](src/strings/TwoStrings.java) |
+| [String Construction](https://www.hackerrank.com/challenges/string-construction) | Easy | [![Java](https://img.icons8.com/color/40/000000/java-coffee-cup-logo.png)](src/strings/StringConstruction.java) |
+| [Highest Value Palindrome](https://www.hackerrank.com/challenges/richie-rich) | Medium | [![Java](https://img.icons8.com/color/40/000000/java-coffee-cup-logo.png)](src/strings/HighestValuePalindrome.java) |
+| [Sherlock and The Valid String](https://www.hackerrank.com/challenges/sherlock-and-valid-string) | Medium | [![Java](https://img.icons8.com/color/40/000000/java-coffee-cup-logo.png)](src/strings/SherlockAndTheValidString.java) |
+| [Maximum Palindromes](https://www.hackerrank.com/challenges/maximum-palindromes) | Medium | [![Java](https://img.icons8.com/color/40/000000/java-coffee-cup-logo.png)](src/strings/CommonChild.java) |
+| [Sherlock and Anagrams](https://www.hackerrank.com/challenges/sherlock-and-anagrams) | Medium | [![Java](https://img.icons8.com/color/40/000000/java-coffee-cup-logo.png)](src/strings/SherlockAndAnagrams.java) |
+| [Common Child](https://www.hackerrank.com/challenges/common-child) | Medium | [![Java](https://img.icons8.com/color/40/000000/java-coffee-cup-logo.png)](src/strings/CommonChild.java) |
+| [Bear and Steady Gene](https://www.hackerrank.com/challenges/bear-and-steady-gene) | Medium | [![Java](https://img.icons8.com/color/40/000000/java-coffee-cup-logo.png)](src/strings/BearAndSteadyGene.java) |
 | [Determining DNA Health](https://www.hackerrank.com/challenges/determining-dna-health) | Hard | |
 | [Morgan and String](https://www.hackerrank.com/challenges/morgan-and-a-string) | Expert | |
 | [Count Strings](https://www.hackerrank.com/challenges/count-strings) | Hard | |
@@ -162,3 +164,41 @@ and happy coding 😀 🐱‍💻.
 | [Letter Islands](https://www.hackerrank.com/challenges/letter-islands) | Expert | |
 | [Pseudo-Isomorphic Substrings](https://www.hackerrank.com/challenges/pseudo-isomorphic-substrings) | Expert | |
 | [How many Substrings?](https://www.hackerrank.com/challenges/how-many-substrings) | Expert | |
+
+### Sorting ![problems-solved](https://img.shields.io/badge/Solved-0/7-1abc9c.svg)
+
+| Problem | Difficulty | Solution Link |
+|---------|:----------:|:-------------:|
+| [Insertion Sort - Part 1](https://www.hackerrank.com/challenges/insertionsort1) | Easy | |
+| [Insertion Sort - Part 2](https://www.hackerrank.com/challenges/insertionsort2) | Easy | |
+| [Running Time of Algorithms](https://www.hackerrank.com/challenges/runningtime) | Easy | |
+| [Quicksort 1 - Partition](https://www.hackerrank.com/challenges/quicksort1) | Easy | |
+| [Fraudulent Activity Notifications](https://www.hackerrank.com/challenges/fraudulent-activity-notifications) | Medium | |
+| [Lily's Homework](https://www.hackerrank.com/challenges/lilys-homework) | Medium | |
+| [Insertion Sort Advanced Analysis](https://www.hackerrank.com/challenges/insertion-sort) | Advanced | |
+
+### Search ![problems-solved](https://img.shields.io/badge/Solved-0/21-1abc9c.svg)
+
+| Problem | Difficulty | Solution Link |
+|---------|:----------:|:-------------:|
+| [Missing Numbers](https://www.hackerrank.com/challenges/missing-numbers) | Easy | |
+| [Hackerland Radio Transmitters](https://www.hackerrank.com/challenges/hackerland-radio-transmitters) | Medium | |
+| [Gridland Metro](https://www.hackerrank.com/challenges/gridland-metro) | Medium | |
+| [KnightL On ChessBoard](https://www.hackerrank.com/challenges/knightl-on-chessboard) | Medium | |
+| [Minimum Loss](https://www.hackerrank.com/challenges/minimum-loss) | Medium | |
+| [Short Palindrome](https://www.hackerrank.com/challenges/short-palindrome) | Medium | |
+| [Count Luck](https://www.hackerrank.com/challenges/count-luck) | Medium | |
+| [Cut The Tree](https://www.hackerrank.com/challenges/cut-the-tree) | Medium | |
+| [Gena Playing Hanoi](https://www.hackerrank.com/challenges/gena) | Medium | |
+| [Beautiful Quadruples](https://www.hackerrank.com/challenges/xor-quadruples) | Medium | |
+| [Red Knight's Shortest Path](https://www.hackerrank.com/challenges/red-knights-shortest-path) | Medium | |
+| [Maximizing Mission Points](https://www.hackerrank.com/challenges/maximizing-mission-points) | Hard | |
+| [Making Candies](https://www.hackerrank.com/challenges/making-candies) | Hard | |
+| [Bike Racers](https://www.hackerrank.com/challenges/bike-racers) | Hard | |
+| [Task Scheduling](https://www.hackerrank.com/challenges/task-scheduling) | Hard | |
+| [Similar Pair](https://www.hackerrank.com/challenges/similarpair) | Hard | |
+| [Absolute Element Sum](https://www.hackerrank.com/challenges/playing-with-numbers) | Hard | |
+| [Almost Integer Rock Garden](https://www.hackerrank.com/challenges/almost-integer-rock-garden) | Hard | |
+| [Sorted Subsegments](https://www.hackerrank.com/challenges/sorted-subsegments) | Hard | |
+| [Distant Pairs](https://www.hackerrank.com/challenges/distant-pairs) | Hard | |
+| [Knight Richard's Knights](https://www.hackerrank.com/challenges/king-richards-knights) | Hard | |
