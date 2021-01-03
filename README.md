@@ -6,9 +6,9 @@
 ![problems-solved](https://img.shields.io/badge/Problems%20Solved-<50%25-1abc9c.svg)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](Contributing.md)
 [![cp](https://img.shields.io/badge/also%20see-Competitve%20Programming-1f72ff.svg)](https://github.com/anishLearnsToCode/competitive-programming)
+[![cp](https://img.shields.io/badge/also%20see-My%20Hackerrank%20Profile-1f72ff.svg)](https://www.hackerrank.com/anishviewer)
 
-HackerRank is an online platform that offers programmers the ability to test their
-sills, practice and learn something new. The problem sets on HackerRank are divided in Domains & Tutorials, 
+The problem sets on HackerRank are divided in Domains & Tutorials, 
 and the following are the domains & tutorials on HackerRank:
 
 <details>
@@ -42,31 +42,20 @@ and the following are the domains & tutorials on HackerRank:
 </details>
 
 This repository contains solutions to the 
-[Algorithms Domain](https://www.hackerrank.com/domains/algorithms) part of HackerRank. My
-HackerRank profile can be viewed [here](https://www.hackerrank.com/anishviewer).
+[Algorithms Domain](https://www.hackerrank.com/domains/algorithms) part of HackerRank.
 
 The Algorithms Domain Falls under a broader Problem Solving Skill Set in HackerRank
 which consists of both 
 [Data Structures](https://www.hackerrank.com/domains/data-structures) 
 and [Algorithms](https://www.hackerrank.com/domains/algorithms).
 
-The Algorithms Domain is further Divided into the following sub-domain. All
-problems in this domain have been solved with the Java programming language, but I am 
-open to the pull requests that provides solutions to these problems in other languages
-as well such as Python, JavaScript, TypeScript (even Lisp!)....
+The Algorithms Domain is further Divided into the following sub-domains.
 
 To Contribute have a look at 
 [Contributing.md](https://github.com/anishLearnsToCode/hackerrank-algorithms/blob/master/Contributing.md) 
 and happy coding 😀 🐱‍💻
 
-I have also solved other domains on HackerRank that can be viewed at:
-
-| Domain | Solutions Repository Link |
-|--------|---------------------------|
-| [Data Structures](https://www.hackerrank.com/domains/data-structures) | [Solutions Repository](https://github.com/anishLearnsToCode/hackerrank-data-structures) |
-| [Java](https://www.hackerrank.com/domains/java) | [Solutions Repository](https://github.com/anishLearnsToCode/hackerrank-java) |
-| [Python](https://www.hackerrank.com/domains/python) | [Solutions Repository](https://github.com/anishLearnsToCode/hackerrank-python) |
-| [Interview Preparation Kit](https://www.hackerrank.com/interview) | [Solutions Repository](https://github.com/anishLearnsToCode/hackerrank-interview-preparation-kit) |
+I have also solved other domains on HackerRank that can be viewed [here](https://github.com/anishLearnsToCode/competitive-programming):
 
 ## Sub Domains & Problems (+Solutions) in the Algorithms Domain
 Quick Links ⚡ : 
@@ -74,7 +63,7 @@ Quick Links ⚡ :
 [Implementation](#implementation-) |
 [Strings](#strings-) |
 
-### Warmup [👆](#sub-domains--problems-solutions-in-the-algorithms-domain)
+### Warmup [👆](#sub-domains--problems-solutions-in-the-algorithms-domain) ![problems-solved](https://img.shields.io/badge/Solved-10/10-1abc9c.svg)
 | Problem | Difficulty | Solution Link |
 |---------|:----------:|:-------------:|
 | [Solve Me First](https://www.hackerrank.com/challenges/solve-me-first) | Easy | [![Java](https://img.icons8.com/color/40/000000/java-coffee-cup-logo.png)](https://github.com/anishLearnsToCode/hackerrank-algorithms/blob/master/src/warmup/SolveMeFirst.java) [![Python](https://img.icons8.com/color/35/000000/python.png)](https://github.com/anishLearnsToCode/hackerrank-algorithms/blob/master/python/warmup/solve-me-first.py) |
@@ -89,7 +78,7 @@ Quick Links ⚡ :
 | [Time Conversion](https://www.hackerrank.com/challenges/time-conversion) | Easy | [![Java](https://img.icons8.com/color/40/000000/java-coffee-cup-logo.png)](https://github.com/anishLearnsToCode/hackerrank-algorithms/blob/master/src/warmup/TimeConversion.java) |
 
 
-### Implementation [👆](#sub-domains--problems-solutions-in-the-algorithms-domain)
+### Implementation [👆](#sub-domains--problems-solutions-in-the-algorithms-domain) ![problems-solved](https://img.shields.io/badge/Solved-66/66-1abc9c.svg)
 | Problem | Difficulty | Solution Link |
 |---------|:----------:|:-------------:|
 | [Grading Students](https://www.hackerrank.com/challenges/grading) | Easy | [![Java](https://img.icons8.com/color/40/000000/java-coffee-cup-logo.png)](https://github.com/anishLearnsToCode/hackerrank-algorithms/blob/master/src/implimentation/GradingStudents.java) |
@@ -159,7 +148,7 @@ Quick Links ⚡ :
 | [Matrix Layer Rotation](https://www.hackerrank.com/challenges/matrix-rotation-algo) | Hard | [![Java](https://img.icons8.com/color/40/000000/java-coffee-cup-logo.png)](https://github.com/anishLearnsToCode/hackerrank-algorithms/blob/master/src/implimentation/MatrixLayerRotation.java) |
 | [Bigger is Greater](https://www.hackerrank.com/challenges/bigger-is-greater) | Medium | [![Java](https://img.icons8.com/color/40/000000/java-coffee-cup-logo.png)](https://github.com/anishLearnsToCode/hackerrank-algorithms/blob/master/src/implimentation/BiggerIsGreater.java) |
 
-### Strings [👆](#sub-domains--problems-solutions-in-the-algorithms-domain)
+### Strings [👆](#sub-domains--problems-solutions-in-the-algorithms-domain) ![problems-solved](https://img.shields.io/badge/Solved-27/48-1abc9c.svg)
 | Problem | Difficulty | Solution Link |
 |---------|:----------:|:-------------:|
 | [Strong Password](https://www.hackerrank.com/challenges/strong-password) | Easy | [![Java](https://img.icons8.com/color/40/000000/java-coffee-cup-logo.png)](https://github.com/anishLearnsToCode/hackerrank-algorithms/blob/master/src/strings/StrongPassword.java) |
