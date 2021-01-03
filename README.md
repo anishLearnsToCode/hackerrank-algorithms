@@ -29,13 +29,13 @@ and happy coding 😀 🐱‍💻.
 [Search](#search-) |
 [Graph Theory](#graph-theory-) |
 [Greedy](#greedy-) |
-[Dynamic Programming]() |
-[Constructive Algorithms]() |
-[Bit Manipulation]() |
-[Recursion]() |
-[Game Theory]() |
-[NP Complete]() |
-[Debugging]()
+[Dynamic Programming](#dynamic-programming-) |
+[Constructive Algorithms](#constructive-algorithms-) |
+[Bit Manipulation](#bit-manipulation-) |
+[Recursion](#recursion-) |
+[Game Theory](#game-theory-) |
+[NP Complete](#np-complete-) |
+[Debugging](#debugging-)
 
 ### Warmup ![problems-solved](https://img.shields.io/badge/Solved-10/10-1abc9c.svg)
 | Problem | Difficulty | Solution Link |
@@ -116,7 +116,7 @@ and happy coding 😀 🐱‍💻.
 | [3D Surface Area](https://www.hackerrank.com/challenges/3d-surface-area) | Medium | [![Java](https://img.icons8.com/color/40/000000/java-coffee-cup-logo.png)](src/implimentation/ThreeDSurfaceArea.java) |
 | [Absolute Permutations](https://www.hackerrank.com/challenges/absolute-permutation) | Medium | [![Java](https://img.icons8.com/color/40/000000/java-coffee-cup-logo.png)](src/implimentation/AbsolutePermutation.java) |
 | [The Bomberman Game](https://www.hackerrank.com/challenges/bomber-man) | Medium | [![Java](https://img.icons8.com/color/40/000000/java-coffee-cup-logo.png)](src/implimentation/TheBomberManGame.java) |
-| [Emma's Supercomputer](https://www.hackerrank.com/challenges/two-pluses) | Medium | [![C++](https://img.icons8.com/color/35/000000/c-plus-plus-logo.png)](src/implimentation/EmasSupercomputer.cpp) |
+| [Emma's Supercomputer](https://www.hackerrank.com/challenges/two-pluses) | Medium | [![C++](https://img.icons8.com/color/35/000000/c-plus-plus-logo.png)](cpp/implimentation/EmasSupercomputer.cpp) |
 | [Larry's Array](https://www.hackerrank.com/challenges/larrys-array) | Medium | [![Java](https://img.icons8.com/color/40/000000/java-coffee-cup-logo.png)](src/implimentation/LarrysArray.java) |
 | [Almost Sorted](https://www.hackerrank.com/challenges/almost-sorted) | Medium | [![Java](https://img.icons8.com/color/40/000000/java-coffee-cup-logo.png)](src/implimentation/AlmostSorted.java) |
 | [Matrix Layer Rotation](https://www.hackerrank.com/challenges/matrix-rotation-algo) | Hard | [![Java](https://img.icons8.com/color/40/000000/java-coffee-cup-logo.png)](src/implimentation/MatrixLayerRotation.java) |
@@ -410,10 +410,52 @@ and happy coding 😀 🐱‍💻.
 | [Suffix Rotation](https://www.hackerrank.com/challenges/suffix-rotation) | Expert | |
 | [Lucky Numbers](https://www.hackerrank.com/challenges/lucky-numbers) | Expert | |
 
-### Constructive Algorithms ![problems-solved](https://img.shields.io/badge/Solved-0/23-1abc9c.svg)
+### Constructive Algorithms ![problems-solved](https://img.shields.io/badge/Solved-0/11-1abc9c.svg)
+| Problem | Difficulty | Solution Link |
+|---------|:----------:|:-------------:|
+| [Lena Sort](https://www.hackerrank.com/challenges/lena-sort) | Medium | |
+| [Flipping The Matrix](https://www.hackerrank.com/challenges/flipping-the-matrix) | Medium | |
+| [Gaming Array](https://www.hackerrank.com/challenges/an-interesting-game-1) | Medium | |
+| [New Year Chaos](https://www.hackerrank.com/challenges/new-year-chaos) | Medium | |
+| [Bonetrousle](https://www.hackerrank.com/challenges/bonetrousle) | Medium | |
+| [Yet Another KMP Problem](https://www.hackerrank.com/challenges/kmp-problem) | Hard | |
+| [Beautiful 3 Set](https://www.hackerrank.com/challenges/beautiful-3-set) | Hard | |
+| [Inverse RMQ](https://www.hackerrank.com/challenges/inverse-rmq) | Hard | |
+| [Lovely Triplets](https://www.hackerrank.com/challenges/lovely-triplets) | Advanced | |
+| [Array Construction](https://www.hackerrank.com/challenges/array-construction) | Advanced | |
+| [Two Subarrays](https://www.hackerrank.com/challenges/two-subarrays) | Expert | |
 
+### Bit Manipulation ![problems-solved](https://img.shields.io/badge/Solved-0/27-1abc9c.svg)
+| Problem | Difficulty | Solution Link |
+|---------|:----------:|:-------------:|
+| [Lonely Integer](https://www.hackerrank.com/challenges/lonely-integer) | Easy | |
+| [Maximizing XOR](https://www.hackerrank.com/challenges/maximizing-xor) | Easy | |
+| [Sum vs XOR](https://www.hackerrank.com/challenges/sum-vs-xor) | Easy | |
+| [Flipping Bits](https://www.hackerrank.com/challenges/flipping-bits) | Easy | |
+| [Counter Game](https://www.hackerrank.com/challenges/counter-game) | Medium | |
+| [Xor-sequence](https://www.hackerrank.com/challenges/xor-se) | Medium | |
+| [The Great XOR](https://www.hackerrank.com/challenges/the-great-xor) | Medium | |
+| [Yet Another Minimax Problem](https://www.hackerrank.com/challenges/yet-another-minimax-problem) | Medium | |
+| [Sansa and XOR](https://www.hackerrank.com/challenges/sansa-and-xor) | Medium | |
+| [AND Product](https://www.hackerrank.com/challenges/and-product) | Medium | |
+| [Winning Lottery Ticket](https://www.hackerrank.com/challenges/winning-lottery-ticket) | Medium | |
+| [Cipher](https://www.hackerrank.com/challenges/cipher) | Medium | |
+| [What's Next?](https://www.hackerrank.com/challenges/whats-next) | Medium | |
+| [A or B](https://www.hackerrank.com/challenges/aorb) | Medium | |
+| [Xoring Ninja](https://www.hackerrank.com/challenges/xoring-ninja) | Hard | |
+| [XOR Matrix](https://www.hackerrank.com/challenges/xor-matrix) | Hard | |
+| [String Transmission](https://www.hackerrank.com/challenges/string-transmission) | Hard | |
+| [Manipulative Numbers](https://www.hackerrank.com/challenges/manipulative-numbers) | Hard | |
+| [Stone Game](https://www.hackerrank.com/challenges/stonegame) | Hard | |
+| [Mixing Proteins](https://www.hackerrank.com/challenges/pmix) | Hard | |
+| [Maximizing The Function](https://www.hackerrank.com/challenges/maximizing-the-function) | Hard | |
+| [2's Complement](https://www.hackerrank.com/challenges/2s-complement) | Advanced | |
+| [Changing Bits](https://www.hackerrank.com/challenges/changing-bits) | Advanced | |
+| [XOR Key](https://www.hackerrank.com/challenges/xor-key) | Advanced | |
+| [XOR Subsequences](https://www.hackerrank.com/challenges/xor-subsequence) | Advanced | |
+| [Iterate It](https://www.hackerrank.com/challenges/iterate-it) | Expert | |
+| [Hamming Distance](https://www.hackerrank.com/challenges/hamming-distance) | Expert | |
 
-### Bit Manipulation ![problems-solved](https://img.shields.io/badge/Solved-0/23-1abc9c.svg)
 
 ### Recursion ![problems-solved](https://img.shields.io/badge/Solved-0/23-1abc9c.svg)
 
