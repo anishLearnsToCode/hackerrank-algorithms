@@ -2,8 +2,8 @@
 
 ![problems-solved](https://img.shields.io/badge/Problems%20Solved-107/1412-1f425f.svg)
 ![java](https://img.shields.io/badge/Java-107/1412-1abc9c.svg)
-![python](https://img.shields.io/badge/Java-107/1412-1abc9c.svg)
-![cpp](https://img.shields.io/badge/Java-107/1412-1abc9c.svg)
+![python](https://img.shields.io/badge/Python-107/1412-1abc9c.svg)
+![cpp](https://img.shields.io/badge/C++-107/1412-1abc9c.svg)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](Contributing.md)
 [![cp](https://img.shields.io/badge/also%20see-Competitve%20Programming-1f72ff.svg)](https://github.com/anishLearnsToCode/competitive-programming)
 [![cp](https://img.shields.io/badge/also%20see-My%20Hackerrank%20Profile-1f72ff.svg)](https://www.hackerrank.com/anishviewer)
@@ -26,7 +26,16 @@ and happy coding 😀 🐱‍💻.
 [Implementation](#implementation-) |
 [Strings](#strings-) |
 [Sorting](#sorting-) |
-[Search]()
+[Search](#search-) |
+[Graph Theory](#graph-theory-) |
+[Greedy](#greedy-) |
+[Dynamic Programming]() |
+[Constructive Algorithms]() |
+[Bit Manipulation]() |
+[Recursion]() |
+[Game Theory]() |
+[NP Complete]() |
+[Debugging]()
 
 ### Warmup ![problems-solved](https://img.shields.io/badge/Solved-10/10-1abc9c.svg)
 | Problem | Difficulty | Solution Link |
@@ -202,3 +211,214 @@ and happy coding 😀 🐱‍💻.
 | [Sorted Subsegments](https://www.hackerrank.com/challenges/sorted-subsegments) | Hard | |
 | [Distant Pairs](https://www.hackerrank.com/challenges/distant-pairs) | Hard | |
 | [Knight Richard's Knights](https://www.hackerrank.com/challenges/king-richards-knights) | Hard | |
+
+### Graph Theory ![problems-solved](https://img.shields.io/badge/Solved-0/62-1abc9c.svg)
+
+| Problem | Difficulty | Solution Link |
+|---------|:----------:|:-------------:|
+| [Journey To The Moon](https://www.hackerrank.com/challenges/journey-to-the-moon) | Medium | |
+| [Synchronous Shopping](https://www.hackerrank.com/challenges/synchronous-shopping) | Medium | |
+| [Breadth First Search: Shortest Reach](https://www.hackerrank.com/challenges/bfsshortreach) | Medium | |
+| [Kruskal (MST): Really Special Subtree](https://www.hackerrank.com/challenges/kruskalmstrsub) | Medium | |
+| [Even Tree](https://www.hackerrank.com/challenges/even-tree) | Medium | |
+| [Snakes and Ladders: The Quickest Way Up](https://www.hackerrank.com/challenges/the-quickest-way-up) | Medium | |
+| [The Story Of A Tree](https://www.hackerrank.com/challenges/the-story-of-a-tree) | Medium | |
+| [Prim's (MST): Special Subtree](https://www.hackerrank.com/challenges/primsmstsub) | Medium | |
+| [Clique](https://www.hackerrank.com/challenges/clique) | Medium | |
+| [Minimum Penalty Path](https://www.hackerrank.com/challenges/beautiful-path) | Medium | |
+| [Jack Goes To Rapture](https://www.hackerrank.com/challenges/jack-goes-to-rapture) | Medium | |
+| [Crab Graphs](https://www.hackerrank.com/challenges/crab-graphs) | Medium | |
+| [Jeanie's Route](https://www.hackerrank.com/challenges/jeanies-route) | Medium | |
+| [Roads in HackerLand](https://www.hackerrank.com/challenges/jeanies-route) | Medium | |
+| [Rust & Murderer](https://www.hackerrank.com/challenges/rust-murderer) | Medium | |
+| [Frog And Maze](https://www.hackerrank.com/challenges/frog-in-maze) | Hard | |
+| [Subset Component](https://www.hackerrank.com/challenges/subset-component) | Hard | |
+| [Dijkstra: Shortest Reach 2](https://www.hackerrank.com/challenges/dijkstrashortreach) | Hard | |
+| [Toll Cost Digits](https://www.hackerrank.com/challenges/toll-cost-digits) | Hard | |
+| [Real Estate Broker](https://www.hackerrank.com/challenges/real-estate-broker) | Hard | |
+| [Demanding Money](https://www.hackerrank.com/challenges/borrowing-money) | Hard | |
+| [The Value Of Friendship](https://www.hackerrank.com/challenges/value-of-friendship) | Hard | |
+| [Coprime Paths](https://www.hackerrank.com/challenges/coprime-paths) | Expert | |
+| [Minimum MST Graph](https://www.hackerrank.com/challenges/minimum-mst-graph) | Expert | |
+| [Bread Ornaments](https://www.hackerrank.com/challenges/beadornaments) | Advanced | |
+| [Floyd: City Of Blinding Lights](https://www.hackerrank.com/challenges/floyd-city-of-blinding-lights) | Hard | |
+| [Kingdom Connectivity](https://www.hackerrank.com/challenges/kingdom-connectivity) | Hard | |
+| [Computer Game](https://www.hackerrank.com/challenges/computer-game) | Hard | |
+| [Problem Solving](https://www.hackerrank.com/challenges/problem-solving) | Hard | |
+| [Journey Scheduling](https://www.hackerrank.com/challenges/journey-scheduling) | Hard | |
+| [Recording Episodes](https://www.hackerrank.com/challenges/episode-recording) | Hard | |
+| [Repair Roads](https://www.hackerrank.com/challenges/repair-roads) | Hard | |
+| [Kth Ancestor](https://www.hackerrank.com/challenges/kth-ancestor) | Hard | |
+| [ByteLandian Tours](https://www.hackerrank.com/challenges/bytelandian-tours) | Hard | |
+| [Find The Path](https://www.hackerrank.com/challenges/shortest-path) | Hard | |
+| [Savita & Friends](https://www.hackerrank.com/challenges/savita-and-friends) | Hard | |
+| [Liars](https://www.hackerrank.com/challenges/liars) | Advanced | |
+| [Jumping Rocks](https://www.hackerrank.com/challenges/jumping-rooks) | Advanced | |
+| [Tripartite Matching](https://www.hackerrank.com/challenges/tripartite-matching) | Hard | |
+| [Tree Flow](https://www.hackerrank.com/challenges/tree-flow) | Hard | |
+| [DAG Queries](https://www.hackerrank.com/challenges/dag-queries) | Expert | |
+| [Favorite Sequence](https://www.hackerrank.com/challenges/favourite-sequence) | Advanced | |
+| [Jogging Cats](https://www.hackerrank.com/challenges/cat-jogging) | Advanced | |
+| [Quadrant Queries](https://www.hackerrank.com/challenges/quadrant-queries) | Advanced | |
+| [Hacker Country](https://www.hackerrank.com/challenges/hacker-country) | Hard | |
+| [HackerX](https://www.hackerrank.com/challenges/missile-defend) | Hard | |
+| [Huarongdao](https://www.hackerrank.com/challenges/huarongdao) | Expert | |
+| [Training The Army](https://www.hackerrank.com/challenges/training-the-army) | Hard | |
+| [Jim and His LAN Party](https://www.hackerrank.com/challenges/jim-and-his-lan-party) | Hard | |
+| [Travel in HackerLand](https://www.hackerrank.com/challenges/travel-in-hackerland) | Hard | |
+| [Alex vs Fedor](https://www.hackerrank.com/challenges/alex-vs-fedor) | Expert | |
+| [Vertical Paths](https://www.hackerrank.com/challenges/vertical-paths) | Expert | |
+| [Drive](https://www.hackerrank.com/challenges/drive) | Expert | |
+| [Travelling Salesman In A Grid](https://www.hackerrank.com/challenges/tsp-grid) | Expert | |
+| [Road Network](https://www.hackerrank.com/challenges/road-network) | Expert | |
+| [Going To The Office](https://www.hackerrank.com/challenges/going-office) | Expert | |
+| [Tree Splitting](https://www.hackerrank.com/challenges/tree-splitting) | Advanced | |
+| [Ticket](https://www.hackerrank.com/challenges/ticket) | Expert | |
+| [DFS Edges](https://www.hackerrank.com/challenges/dfs-edges) | Expert | |
+| [Diameter Minimization](https://www.hackerrank.com/challenges/diameter-minimization) | Expert | |
+| [Airports](https://www.hackerrank.com/challenges/airports) | Expert | |
+| [Definite Random Walks](https://www.hackerrank.com/challenges/definite-random-walks) | Expert | |
+
+### Greedy ![problems-solved](https://img.shields.io/badge/Solved-0/23-1abc9c.svg)
+
+| Problem | Difficulty | Solution Link |
+|---------|:----------:|:-------------:|
+| [Minimum Absolute Difference In Array](https://www.hackerrank.com/challenges/minimum-absolute-difference-in-an-array) | Easy | |
+| [Marc's Cakewalk](https://www.hackerrank.com/challenges/marcs-cakewalk) | Easy | |
+| [Grid Challenge](https://www.hackerrank.com/challenges/grid-challenge) | Easy | |
+| [Luck Balance](https://www.hackerrank.com/challenges/luck-balance) | Easy | |
+| [Maximum Perimeter Triangle](https://www.hackerrank.com/challenges/maximum-perimeter-triangle) | Easy | |
+| [Beautiful Pairs](https://www.hackerrank.com/challenges/beautiful-pairs) | Easy | |
+| [Sherlock and The Beast](https://www.hackerrank.com/challenges/sherlock-and-the-beast) | Easy | |
+| [Priyanka and Toys](https://www.hackerrank.com/challenges/priyanka-and-toys) | Easy | |
+| [Largest Permutation](https://www.hackerrank.com/challenges/largest-permutation) | Easy | |
+| [Mark and Toys](https://www.hackerrank.com/challenges/mark-and-toys) | Easy | |
+| [Jim and The Orders](https://www.hackerrank.com/challenges/jim-and-the-orders) | Easy | |
+| [Permuting Two Arrays](https://www.hackerrank.com/challenges/two-arrays) | Easy | |
+| [Candies](https://www.hackerrank.com/challenges/candies) | Medium | |
+| [Greedy Florist](https://www.hackerrank.com/challenges/greedy-florist) | Medium | |
+| [Max Min](https://www.hackerrank.com/challenges/angry-children) | Medium | |
+| [Cloudy Day](https://www.hackerrank.com/challenges/cloudy-day) | Medium | |
+| [Cutting Boards](https://www.hackerrank.com/challenges/board-cutting) | Hard | |
+| [Chief Hopper](https://www.hackerrank.com/challenges/chief-hopper) | Hard | |
+| [Sherlock and MinMax](https://www.hackerrank.com/challenges/sherlock-and-minimax) | Hard | |
+| [Accessory Collection](https://www.hackerrank.com/challenges/accessory-collection) | Hard | |
+| [Fighting Pits](https://www.hackerrank.com/challenges/fighting-pits) | Hard | |
+| [Reverse Shuffle Merge](https://www.hackerrank.com/challenges/reverse-shuffle-merge) | Advanced | |
+| [Team Formation](https://www.hackerrank.com/challenges/team-formation) | Advanced | |
+
+### Dynamic Programming ![problems-solved](https://img.shields.io/badge/Solved-0/99-1abc9c.svg)
+| Problem | Difficulty | Solution Link |
+|---------|:----------:|:-------------:|
+| [The Coin Change Problem](https://www.hackerrank.com/challenges/coin-change) | Medium | |
+| [Equal](https://www.hackerrank.com/challenges/equal) | Medium | |
+| [Sherlock and Cost](https://www.hackerrank.com/challenges/sherlock-and-cost) | Medium | |
+| [Construct The Array](https://www.hackerrank.com/challenges/construct-the-array) | Medium | |
+| [Kingdom Division](https://www.hackerrank.com/challenges/kingdom-division) | Medium | |
+| [Sam and Substrings](https://www.hackerrank.com/challenges/sam-and-substrings) | Medium | |
+| [Fibonacci Modified](https://www.hackerrank.com/challenges/fibonacci-modified) | Medium | |
+| [Abbreviation](https://www.hackerrank.com/challenges/abbr) | Medium | |
+| [Prime XOR](https://www.hackerrank.com/challenges/prime-xor) | Medium | |
+| [Fair Cut](https://www.hackerrank.com/challenges/fair-cut) | Medium | |
+| [The Maximum Subarray](https://www.hackerrank.com/challenges/maxsubarray) | Medium | |
+| [Prime Digit Sum](https://www.hackerrank.com/challenges/prime-digit-sums) | Medium | |
+| [HackerRank City](https://www.hackerrank.com/challenges/hr-city) | Medium | |
+| [Summing Pieces](https://www.hackerrank.com/challenges/summing-pieces) | Medium | |
+| [Mr K Marsh](https://www.hackerrank.com/challenges/mr-k-marsh) | Medium | |
+| [Substring Diff](https://www.hackerrank.com/challenges/substring-diff) | Medium | |
+| [Xor and Sum](https://www.hackerrank.com/challenges/xor-and-sum) | Medium | |
+| [Lego Blocks](https://www.hackerrank.com/challenges/lego-blocks) | Medium | |
+| [Stock Maximize](https://www.hackerrank.com/challenges/stockmax) | Medium | |
+| [Two Robots](https://www.hackerrank.com/challenges/two-robots) | Medium | |
+| [Cut Tree](https://www.hackerrank.com/challenges/cuttree) | Medium | |
+| [Wet Shark and Two Subsequences](https://www.hackerrank.com/challenges/wet-shark-and-two-subsequences) | Medium | |
+| [Nikita and the Game](https://www.hackerrank.com/challenges/array-splitting) | Medium | |
+| [Mandragora Forest](https://www.hackerrank.com/challenges/mandragora) | Medium | |
+| [Red John is Back](https://www.hackerrank.com/challenges/red-john-is-back) | Medium | |
+| [LCS Returns](https://www.hackerrank.com/challenges/tutzki-and-lcs) | Medium | |
+| [Grid Walking](https://www.hackerrank.com/challenges/grid-walking) | Medium | |
+| [Knapsack](https://www.hackerrank.com/challenges/unbounded-knapsack) | Medium | |
+| [Bricks Game](https://www.hackerrank.com/challenges/play-game) | Medium | |
+| [Coin On The Table](https://www.hackerrank.com/challenges/coin-on-the-table) | Medium | |
+| [The Longest Common Subsequence](https://www.hackerrank.com/challenges/dynamic-programming-classics-the-longest-common-subsequence) | Medium | |
+| [Play With Words](https://www.hackerrank.com/challenges/strplay) | Medium | |
+| [Counting Special Sub-Cubes](https://www.hackerrank.com/challenges/counting-special-sub-cubes) | Medium | |
+| [Interval Selection](https://www.hackerrank.com/challenges/interval-selection) | Medium | |
+| [The Indian Job](https://www.hackerrank.com/challenges/the-indian-job) | Medium | |
+| [Travel Around The World](https://www.hackerrank.com/challenges/travel-around-the-world) | Medium | |
+| [Candles Counting](https://www.hackerrank.com/challenges/candles-2) | Medium | |
+| [Swap Permutation](https://www.hackerrank.com/challenges/swappermutation) | Medium | |
+| [Extremum Permutations](https://www.hackerrank.com/challenges/extremum-permutations) | Medium | |
+| [Decibinary Numbers](https://www.hackerrank.com/challenges/decibinary-numbers) | Hard | |
+| [Angry Children 2](https://www.hackerrank.com/challenges/angry-children-2) | Hard | |
+| [Sherlock's Array Merging Problem](https://www.hackerrank.com/challenges/sherlocks-array-merging-algorithm) | Hard | |
+| [Brick Tilling](https://www.hackerrank.com/challenges/brick-tiling) | Hard | |
+| [Alien Language](https://www.hackerrank.com/challenges/alien-languages) | Hard | |
+| [Tara's Beautiful Permutations](https://www.hackerrank.com/challenges/taras-beautiful-permutations) | Hard | |
+| [Choosing White Balls](https://www.hackerrank.com/challenges/choosing-white-balls) | Hard | |
+| [Matrix Land](https://www.hackerrank.com/challenges/matrix-land) | Hard | |
+| [Black and White Tree](https://www.hackerrank.com/challenges/black-n-white-tree-1) | Hard | |
+| [String Reduction](https://www.hackerrank.com/challenges/string-reduction) | Hard | |
+| [Far Vertices](https://www.hackerrank.com/challenges/far-vertices) | Hard | |
+| [Superman Celebrates Diwali](https://www.hackerrank.com/challenges/superman-celebrates-diwali) | Hard | |
+| [Hexagonal Grid](https://www.hackerrank.com/challenges/hexagonal-grid) | Hard | |
+| [Queens On Board](https://www.hackerrank.com/challenges/queens-on-board) | Hard | |
+| [Turn of The Lights](https://www.hackerrank.com/challenges/turn-off-the-lights) | Hard | |
+| [Animal Transport](https://www.hackerrank.com/challenges/animal-transport) | Hard | |
+| [A Super Hero](https://www.hackerrank.com/challenges/a-super-hero) | Hard | |
+| [Clues On Binary Path](https://www.hackerrank.com/challenges/clues-on-a-binary-path) | Hard | |
+| [Road Maintenance](https://www.hackerrank.com/challenges/road-maintenance) | Hard | |
+| [Beautiful Strings](https://www.hackerrank.com/challenges/beautiful-string) | Hard | |
+| [Covering The Stains](https://www.hackerrank.com/challenges/covering-the-stains) | Hard | |
+| [GCD Matrix](https://www.hackerrank.com/challenges/gcd-matrix) | Hard | |
+| [New Year Present](https://www.hackerrank.com/challenges/newyear-present) | Hard | |
+| [Longest Palindromic Subsequence](https://www.hackerrank.com/challenges/longest-palindromic-subsequence) | Hard | |
+| [Square Subsequences](https://www.hackerrank.com/challenges/square-subsequences) | Hard | |
+| [Police Operation](https://www.hackerrank.com/challenges/police-operation) | Hard | |
+| [Zurikela's Graph](https://www.hackerrank.com/challenges/zurikela) | Hard | |
+| [Longest Mod Path](https://www.hackerrank.com/challenges/longest-mod-path) | Hard | |
+| [P-Sequences](https://www.hackerrank.com/challenges/p-sequences) | Hard | |
+| [Oil Well](https://www.hackerrank.com/challenges/oil-well) | Hard | |
+| [The Blacklist](https://www.hackerrank.com/challenges/the-blacklist) | Hard | |
+| [Ones and Twos](https://www.hackerrank.com/challenges/ones-and-twos) | Hard | |
+| [Unique Divide and Conquer](https://www.hackerrank.com/challenges/unique-divide-and-conquer) | Advanced | |
+| [Dortmund Dilemma](https://www.hackerrank.com/challenges/dortmund-dilemma) | Advanced | |
+| [Super Kth LIS](https://www.hackerrank.com/challenges/super-kth-lis) | Advanced | |
+| [Points In Plane](https://www.hackerrank.com/challenges/points-in-a-plane) | Advanced | |
+| [Fairy Chess](https://www.hackerrank.com/challenges/fairy-chess) | Advanced | |
+| [Mining](https://www.hackerrank.com/challenges/mining) | Advanced | |
+| [Requirement](https://www.hackerrank.com/challenges/requirement) | Advanced | |
+| [Robot](https://www.hackerrank.com/challenges/robot) | Advanced | |
+| [Unfair Game](https://www.hackerrank.com/challenges/unfair-game) | Advanced | |
+| [Modify The Sequence](https://www.hackerrank.com/challenges/modify-the-sequence) | Advanced | |
+| [Vim War](https://www.hackerrank.com/challenges/vim-war) | Advanced | |
+| [Best Spot](https://www.hackerrank.com/challenges/best-spot) | Advanced | |
+| [Hyper Strings](https://www.hackerrank.com/challenges/hyper-strings) | Advanced | |
+| [Tree Pruning](https://www.hackerrank.com/challenges/tree-pruning) | Advanced | |
+| [Dorsey Thief](https://www.hackerrank.com/challenges/dorsey-thief) | Advanced | |
+| [Find The Seed](https://www.hackerrank.com/challenges/find-the-seed) | Advanced | |
+| [Billboards](https://www.hackerrank.com/challenges/billboards) | Advanced | |
+| [Shashank and Palindromic Strings](https://www.hackerrank.com/challenges/shashank-and-palindromic-strings) | Advanced | |
+| [The Longest Increasing Subsequence](https://www.hackerrank.com/challenges/longest-increasing-subsequent) | Advanced | |
+| [Counting The Ways](https://www.hackerrank.com/challenges/count-ways-1) | Expert | |
+| [Hard Disk Drives](https://www.hackerrank.com/challenges/hard-drive-disks) | Expert | |
+| [Separate The Chocolate](https://www.hackerrank.com/challenges/separate-the-chocolate) | Expert | |
+| [King and Four Sons](https://www.hackerrank.com/challenges/happy-king) | Expert | |
+| [Divisible Numbers](https://www.hackerrank.com/challenges/divisible-numbers) | Expert | |
+| [Counting Road Networks](https://www.hackerrank.com/challenges/counting-road-networks) | Expert | |
+| [Count Scorecards](https://www.hackerrank.com/challenges/count-scorecards) | Expert | |
+| [Suffix Rotation](https://www.hackerrank.com/challenges/suffix-rotation) | Expert | |
+| [Lucky Numbers](https://www.hackerrank.com/challenges/lucky-numbers) | Expert | |
+
+### Constructive Algorithms ![problems-solved](https://img.shields.io/badge/Solved-0/23-1abc9c.svg)
+
+
+### Bit Manipulation ![problems-solved](https://img.shields.io/badge/Solved-0/23-1abc9c.svg)
+
+### Recursion ![problems-solved](https://img.shields.io/badge/Solved-0/23-1abc9c.svg)
+
+### Game Theory ![problems-solved](https://img.shields.io/badge/Solved-0/23-1abc9c.svg)
+
+### NP Complete ![problems-solved](https://img.shields.io/badge/Solved-0/23-1abc9c.svg)
+
+### Debugging ![problems-solved](https://img.shields.io/badge/Solved-0/23-1abc9c.svg)
