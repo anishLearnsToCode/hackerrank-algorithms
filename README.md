@@ -425,7 +425,9 @@ and happy coding 😀 🐱‍💻.
 | [Array Construction](https://www.hackerrank.com/challenges/array-construction) | Advanced | |
 | [Two Subarrays](https://www.hackerrank.com/challenges/two-subarrays) | Expert | |
 
+
 ### Bit Manipulation ![problems-solved](https://img.shields.io/badge/Solved-0/27-1abc9c.svg)
+
 | Problem | Difficulty | Solution Link |
 |---------|:----------:|:-------------:|
 | [Lonely Integer](https://www.hackerrank.com/challenges/lonely-integer) | Easy | |
@@ -457,9 +459,58 @@ and happy coding 😀 🐱‍💻.
 | [Hamming Distance](https://www.hackerrank.com/challenges/hamming-distance) | Expert | |
 
 
-### Recursion ![problems-solved](https://img.shields.io/badge/Solved-0/23-1abc9c.svg)
+### Recursion ![problems-solved](https://img.shields.io/badge/Solved-0/11-1abc9c.svg)
 
-### Game Theory ![problems-solved](https://img.shields.io/badge/Solved-0/23-1abc9c.svg)
+| Problem | Difficulty | Solution Link |
+|---------|:----------:|:-------------:|
+| [The Power Sum](https://www.hackerrank.com/challenges/the-power-sum) | Medium | |
+| [Crossword Puzzle](https://www.hackerrank.com/challenges/crossword-puzzle) | Medium | |
+| [Recursive Digit Sum](https://www.hackerrank.com/challenges/recursive-digit-sum) | Medium | |
+| [Simplified Chess Engine](https://www.hackerrank.com/challenges/simplified-chess-engine) | Medium | |
+| [Password Cracker](https://www.hackerrank.com/challenges/password-cracker) | Medium | |
+| [Stone Division, Revisited](https://www.hackerrank.com/challenges/stone-division-2) | Medium | |
+| [Arithmetic Expressions](https://www.hackerrank.com/challenges/arithmetic-expressions) | Hard | |
+| [K Factorization](https://www.hackerrank.com/challenges/k-factorization) | Hard | |
+| [Bowling Pins](https://www.hackerrank.com/challenges/bowling-pins) | Hard | |
+| [Simplified Chess Engine II](https://www.hackerrank.com/challenges/simplified-chess-engine-ii) | Hard | |
+| [Repitive K-Sums](https://www.hackerrank.com/challenges/repeat-k-sums) | Advanced | |
+
+
+### Game Theory ![problems-solved](https://img.shields.io/badge/Solved-0/32-1abc9c.svg)
+| Problem | Difficulty | Solution Link |
+|---------|:----------:|:-------------:|
+| [Game Of Stones](https://www.hackerrank.com/challenges/game-of-stones-1) | Easy | |
+| [Tower Breaker](https://www.hackerrank.com/challenges/tower-breakers-1) | Easy | |
+| [A Chessboard Game](https://www.hackerrank.com/challenges/a-chessboard-game-1) | Easy | |
+| [Introduction To Nim Game](https://www.hackerrank.com/challenges/nim-game-1) | Easy | |
+| [Misère Nim](https://www.hackerrank.com/challenges/nim-game-1) | Easy | |
+| [Nimble Game](https://www.hackerrank.com/challenges/nimble-game-1) | Easy | |
+| [Poker Nim](https://www.hackerrank.com/challenges/poker-nim-1) | Easy | |
+| [Alice and Bob's Silly Game](https://www.hackerrank.com/challenges/alice-and-bobs-silly-game) | Medium | |
+| [Tower Breakers, Revisited!](https://www.hackerrank.com/challenges/tower-breakers-revisited-1) | Medium | |
+| [Tower Breakers, Again!](https://www.hackerrank.com/challenges/tower-breakers-again-1) | Medium | |
+| [Zero Move Nim](https://www.hackerrank.com/challenges/zero-move-nim) | Medium | |
+| [Chessboard Game Again](https://www.hackerrank.com/challenges/chessboard-game-again-1) | Medium | |
+| [Digits Square Board](https://www.hackerrank.com/challenges/digits-square-board-1) | Medium | |
+| [Fun Game](https://www.hackerrank.com/challenges/fun-game-1) | Medium | |
+| [Chocolate In Box](https://www.hackerrank.com/challenges/chocolate-in-box) | Medium | |
+| [Kitty and Katty](https://www.hackerrank.com/challenges/kitty-and-katty) | Medium | |
+| [Powers Game](https://www.hackerrank.com/challenges/powers-game-1) | Medium | |
+| [Deforestation](https://www.hackerrank.com/challenges/deforestation-1) | Medium | |
+| [Bob and Ben](https://www.hackerrank.com/challenges/bob-and-ben) | Medium | |
+| [Tower Breakers - The Final Battle](https://www.hackerrank.com/challenges/tower-breakers-the-final-battle-1) | Medium | |
+| [Permutation Game](https://www.hackerrank.com/challenges/permutation-game) | Medium | |
+| [Play on Benders](https://www.hackerrank.com/challenges/benders-play) | Medium | |
+| [New Year Game](https://www.hackerrank.com/challenges/newyear-game) | Medium | |
+| [Vertical Rooks](https://www.hackerrank.com/challenges/vertical-rooks) | Medium | |
+| [A Stone Game](https://www.hackerrank.com/challenges/half) | Medium | |
+| [Stone Division](https://www.hackerrank.com/challenges/stone-division) | Hard | |
+| [Simple Game](https://www.hackerrank.com/challenges/simple-game) | Hard | |
+| [Move The Coins](https://www.hackerrank.com/challenges/move-the-coins) | Hard | |
+| [Stone Piles](https://www.hackerrank.com/challenges/stone-piles) | Hard | |
+| [Chocolate Game](https://www.hackerrank.com/challenges/chocolate-game) | Hard | |
+| [The Prime Game](https://www.hackerrank.com/challenges/the-prime-game) | Hard | |
+| [Tastes Like Winning](https://www.hackerrank.com/challenges/taste-of-win) | Expert | |
 
 ### NP Complete ![problems-solved](https://img.shields.io/badge/Solved-0/23-1abc9c.svg)
 
