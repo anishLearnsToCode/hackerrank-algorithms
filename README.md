@@ -2,7 +2,7 @@
 
 ![problems-solved](https://img.shields.io/badge/Problems%20Solved-103/426-1f425f.svg)
 ![java](https://img.shields.io/badge/Java-102/426-1abc9c.svg)
-![python](https://img.shields.io/badge/Python-2/426-1abc9c.svg)
+![python](https://img.shields.io/badge/Python-3/426-1abc9c.svg)
 ![cpp](https://img.shields.io/badge/C++-1/426-1abc9c.svg)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](Contributing.md)
 [![cp](https://img.shields.io/badge/also%20see-Competitve%20Programming-1f72ff.svg)](https://github.com/anishLearnsToCode/competitive-programming)
@@ -17,7 +17,7 @@ and [Algorithms](https://www.hackerrank.com/domains/algorithms).
 
 The Algorithms Domain is further Divided into the following sub-domains.
 To Contribute have a look at 
-[Contributing.md](https://github.com/anishLearnsToCode/hackerrank-algorithms/blob/master/Contributing.md) 
+[Contributing.md](Contributing.md) 
 and happy coding 😀 🐱‍💻.
 
 ## Sub Domains & Problems (+Solutions) in the Algorithms Domain
@@ -44,7 +44,7 @@ and happy coding 😀 🐱‍💻.
 | [Simple Array Sum](https://www.hackerrank.com/challenges/simple-array-sum) | Easy | [![Java](https://img.icons8.com/color/40/000000/java-coffee-cup-logo.png)](src/warmup/SimpleArraySum.java) |
 | [Compare The Triplets](https://www.hackerrank.com/challenges/compare-the-triplets) | Easy | [![Java](https://img.icons8.com/color/40/000000/java-coffee-cup-logo.png)](src/warmup/CompareTheTriplets.java) |
 | [A very Big Sum](https://www.hackerrank.com/challenges/a-very-big-sum) | Easy | [![Java](https://img.icons8.com/color/40/000000/java-coffee-cup-logo.png)](src/warmup/AVeryBigSum.java) |
-| [Diagonal Difference](https://www.hackerrank.com/challenges/diagonal-difference) | Easy | [![Java](https://img.icons8.com/color/40/000000/java-coffee-cup-logo.png)](src/warmup/DiagonalDifference.java) |
+| [Diagonal Difference](https://www.hackerrank.com/challenges/diagonal-difference) | Easy | [![Java](https://img.icons8.com/color/40/000000/java-coffee-cup-logo.png)](src/warmup/DiagonalDifference.java) [![Python](https://img.icons8.com/color/35/000000/python.png)](python/warmup/diagonal-difference.py)|
 | [Plus Minus](https://www.hackerrank.com/challenges/plus-minus) | Easy | [![Java](https://img.icons8.com/color/40/000000/java-coffee-cup-logo.png)](src/warmup/PlusMinus.java) |
 | [Staircase](https://www.hackerrank.com/challenges/staircase) | Easy | [![Java](https://img.icons8.com/color/40/000000/java-coffee-cup-logo.png)](src/warmup/Staircase.java) |
 | [Mini-Max Sum](https://www.hackerrank.com/challenges/mini-max-sum) | Easy | [![Java](https://img.icons8.com/color/40/000000/java-coffee-cup-logo.png)](src/warmup/MinMaxSum.java) |
